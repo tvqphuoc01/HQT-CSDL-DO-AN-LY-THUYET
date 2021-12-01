@@ -1,0 +1,1602 @@
+[
+  {
+    "key1": 25,
+    "key2": 91,
+    "MA_SAN_PHAM": "61a73cbb70d978fb3de2be45",
+    "TEN_SAN_PHAM": "NOI COM DIEN5131",
+    "GIA_SAN_PHAM": "$2,108.79",
+    "NGAY_TAO": "2020-01-15T03:11:39 -07:00",
+    "NGAY_CHINH_SUA": "2021-10-31T10:32:58 -07:00",
+    "MA_GIAM_GIA": "SALE1817"
+  },
+  {
+    "key1": 33,
+    "key2": 65,
+    "MA_SAN_PHAM": "61a73cbb8a1e24202a8f3cdb",
+    "TEN_SAN_PHAM": "NOI COM DIEN8513",
+    "GIA_SAN_PHAM": "$1,924.81",
+    "NGAY_TAO": "2020-11-11T09:55:26 -07:00",
+    "NGAY_CHINH_SUA": "2020-02-29T04:38:10 -07:00",
+    "MA_GIAM_GIA": "SALE9256"
+  },
+  {
+    "key1": 35,
+    "key2": 66,
+    "MA_SAN_PHAM": "61a73cbb855ec1d6f334c7e1",
+    "TEN_SAN_PHAM": "NOI COM DIEN106",
+    "GIA_SAN_PHAM": "$3,070.40",
+    "NGAY_TAO": "2021-10-16T08:37:10 -07:00",
+    "NGAY_CHINH_SUA": "2020-06-15T05:57:22 -07:00",
+    "MA_GIAM_GIA": "SALE4710"
+  },
+  {
+    "key1": 23,
+    "key2": 61,
+    "MA_SAN_PHAM": "61a73cbbf896bb88beea21f5",
+    "TEN_SAN_PHAM": "NOI COM DIEN7586",
+    "GIA_SAN_PHAM": "$3,946.79",
+    "NGAY_TAO": "2020-04-20T11:52:32 -07:00",
+    "NGAY_CHINH_SUA": "2020-06-13T06:34:46 -07:00",
+    "MA_GIAM_GIA": "SALE6558"
+  },
+  {
+    "key1": 20,
+    "key2": 50,
+    "MA_SAN_PHAM": "61a73cbb9068d5ac9bdff5e3",
+    "TEN_SAN_PHAM": "NOI COM DIEN8679",
+    "GIA_SAN_PHAM": "$2,062.90",
+    "NGAY_TAO": "2020-12-07T12:16:09 -07:00",
+    "NGAY_CHINH_SUA": "2020-11-25T02:02:31 -07:00",
+    "MA_GIAM_GIA": "SALE2396"
+  },
+  {
+    "key1": 19,
+    "key2": 84,
+    "MA_SAN_PHAM": "61a73cbb89e052af7b4c9384",
+    "TEN_SAN_PHAM": "NOI COM DIEN4038",
+    "GIA_SAN_PHAM": "$2,785.29",
+    "NGAY_TAO": "2020-04-14T11:50:35 -07:00",
+    "NGAY_CHINH_SUA": "2020-07-05T03:53:17 -07:00",
+    "MA_GIAM_GIA": "SALE6517"
+  },
+  {
+    "key1": 33,
+    "key2": 80,
+    "MA_SAN_PHAM": "61a73cbb121c7dee3bfc3cf8",
+    "TEN_SAN_PHAM": "NOI COM DIEN4785",
+    "GIA_SAN_PHAM": "$3,524.39",
+    "NGAY_TAO": "2021-10-07T10:11:08 -07:00",
+    "NGAY_CHINH_SUA": "2021-05-11T01:39:25 -07:00",
+    "MA_GIAM_GIA": "SALE8796"
+  },
+  {
+    "key1": 30,
+    "key2": 56,
+    "MA_SAN_PHAM": "61a73cbbef7aa12151373b76",
+    "TEN_SAN_PHAM": "NOI COM DIEN1326",
+    "GIA_SAN_PHAM": "$1,378.86",
+    "NGAY_TAO": "2020-06-18T01:26:53 -07:00",
+    "NGAY_CHINH_SUA": "2021-11-03T01:11:22 -07:00",
+    "MA_GIAM_GIA": "SALE2775"
+  },
+  {
+    "key1": 41,
+    "key2": 79,
+    "MA_SAN_PHAM": "61a73cbb24171b7440c3f399",
+    "TEN_SAN_PHAM": "NOI COM DIEN1162",
+    "GIA_SAN_PHAM": "$3,781.93",
+    "NGAY_TAO": "2020-11-08T10:14:20 -07:00",
+    "NGAY_CHINH_SUA": "2021-07-10T10:20:57 -07:00",
+    "MA_GIAM_GIA": "SALE3694"
+  },
+  {
+    "key1": 29,
+    "key2": 53,
+    "MA_SAN_PHAM": "61a73cbb4675e343f734481d",
+    "TEN_SAN_PHAM": "NOI COM DIEN7422",
+    "GIA_SAN_PHAM": "$2,553.22",
+    "NGAY_TAO": "2021-03-23T06:44:06 -07:00",
+    "NGAY_CHINH_SUA": "2020-01-22T05:30:15 -07:00",
+    "MA_GIAM_GIA": "SALE9947"
+  },
+  {
+    "key1": 49,
+    "key2": 61,
+    "MA_SAN_PHAM": "61a73cbbcadb2730bed39168",
+    "TEN_SAN_PHAM": "NOI COM DIEN648",
+    "GIA_SAN_PHAM": "$1,015.29",
+    "NGAY_TAO": "2020-05-25T05:24:27 -07:00",
+    "NGAY_CHINH_SUA": "2020-01-24T03:43:24 -07:00",
+    "MA_GIAM_GIA": "SALE3241"
+  },
+  {
+    "key1": 40,
+    "key2": 79,
+    "MA_SAN_PHAM": "61a73cbb94ae1a8fa82c04c4",
+    "TEN_SAN_PHAM": "NOI COM DIEN5653",
+    "GIA_SAN_PHAM": "$1,527.46",
+    "NGAY_TAO": "2020-12-11T05:30:06 -07:00",
+    "NGAY_CHINH_SUA": "2020-09-26T11:42:57 -07:00",
+    "MA_GIAM_GIA": "SALE1501"
+  },
+  {
+    "key1": 37,
+    "key2": 89,
+    "MA_SAN_PHAM": "61a73cbb9dd72d7c9dc70bdc",
+    "TEN_SAN_PHAM": "NOI COM DIEN4726",
+    "GIA_SAN_PHAM": "$3,630.37",
+    "NGAY_TAO": "2020-12-22T04:33:01 -07:00",
+    "NGAY_CHINH_SUA": "2021-05-18T07:50:52 -07:00",
+    "MA_GIAM_GIA": "SALE5961"
+  },
+  {
+    "key1": 39,
+    "key2": 56,
+    "MA_SAN_PHAM": "61a73cbb7739fcb845849e77",
+    "TEN_SAN_PHAM": "NOI COM DIEN2610",
+    "GIA_SAN_PHAM": "$1,333.70",
+    "NGAY_TAO": "2021-04-27T05:54:29 -07:00",
+    "NGAY_CHINH_SUA": "2020-02-16T07:00:45 -07:00",
+    "MA_GIAM_GIA": "SALE3221"
+  },
+  {
+    "key1": 18,
+    "key2": 67,
+    "MA_SAN_PHAM": "61a73cbb866457e745ad1b3b",
+    "TEN_SAN_PHAM": "NOI COM DIEN2212",
+    "GIA_SAN_PHAM": "$2,218.31",
+    "NGAY_TAO": "2020-08-12T12:01:44 -07:00",
+    "NGAY_CHINH_SUA": "2020-03-05T01:29:55 -07:00",
+    "MA_GIAM_GIA": "SALE5955"
+  },
+  {
+    "key1": 43,
+    "key2": 64,
+    "MA_SAN_PHAM": "61a73cbb5a054d401d595e54",
+    "TEN_SAN_PHAM": "NOI COM DIEN8637",
+    "GIA_SAN_PHAM": "$3,736.07",
+    "NGAY_TAO": "2021-05-01T02:29:15 -07:00",
+    "NGAY_CHINH_SUA": "2020-09-11T08:47:44 -07:00",
+    "MA_GIAM_GIA": "SALE7141"
+  },
+  {
+    "key1": 34,
+    "key2": 93,
+    "MA_SAN_PHAM": "61a73cbb2d4bec7cf637b643",
+    "TEN_SAN_PHAM": "NOI COM DIEN5593",
+    "GIA_SAN_PHAM": "$1,313.27",
+    "NGAY_TAO": "2021-06-05T02:49:51 -07:00",
+    "NGAY_CHINH_SUA": "2021-11-15T02:40:32 -07:00",
+    "MA_GIAM_GIA": "SALE1738"
+  },
+  {
+    "key1": 39,
+    "key2": 86,
+    "MA_SAN_PHAM": "61a73cbb50986681369ba871",
+    "TEN_SAN_PHAM": "NOI COM DIEN7832",
+    "GIA_SAN_PHAM": "$3,181.13",
+    "NGAY_TAO": "2020-11-01T05:29:58 -07:00",
+    "NGAY_CHINH_SUA": "2020-05-20T01:52:28 -07:00",
+    "MA_GIAM_GIA": "SALE3612"
+  },
+  {
+    "key1": 15,
+    "key2": 83,
+    "MA_SAN_PHAM": "61a73cbbbe649e44a01ccceb",
+    "TEN_SAN_PHAM": "NOI COM DIEN673",
+    "GIA_SAN_PHAM": "$2,004.87",
+    "NGAY_TAO": "2020-11-12T10:33:56 -07:00",
+    "NGAY_CHINH_SUA": "2020-12-08T12:32:18 -07:00",
+    "MA_GIAM_GIA": "SALE7357"
+  },
+  {
+    "key1": 22,
+    "key2": 99,
+    "MA_SAN_PHAM": "61a73cbb9f730d4e1feae877",
+    "TEN_SAN_PHAM": "NOI COM DIEN3954",
+    "GIA_SAN_PHAM": "$3,145.72",
+    "NGAY_TAO": "2021-07-06T02:26:08 -07:00",
+    "NGAY_CHINH_SUA": "2021-01-07T01:48:53 -07:00",
+    "MA_GIAM_GIA": "SALE8814"
+  },
+  {
+    "key1": 28,
+    "key2": 50,
+    "MA_SAN_PHAM": "61a73cbbfeffa57d53f601e4",
+    "TEN_SAN_PHAM": "NOI COM DIEN9891",
+    "GIA_SAN_PHAM": "$3,718.98",
+    "NGAY_TAO": "2021-05-28T09:50:33 -07:00",
+    "NGAY_CHINH_SUA": "2021-11-06T04:18:32 -07:00",
+    "MA_GIAM_GIA": "SALE9899"
+  },
+  {
+    "key1": 38,
+    "key2": 61,
+    "MA_SAN_PHAM": "61a73cbb19f32274ff8c8aa5",
+    "TEN_SAN_PHAM": "NOI COM DIEN775",
+    "GIA_SAN_PHAM": "$1,659.73",
+    "NGAY_TAO": "2020-06-03T09:41:47 -07:00",
+    "NGAY_CHINH_SUA": "2020-11-12T11:07:10 -07:00",
+    "MA_GIAM_GIA": "SALE4059"
+  },
+  {
+    "key1": 36,
+    "key2": 99,
+    "MA_SAN_PHAM": "61a73cbb1fe38f7ea04aa452",
+    "TEN_SAN_PHAM": "NOI COM DIEN4108",
+    "GIA_SAN_PHAM": "$3,594.30",
+    "NGAY_TAO": "2020-01-16T01:09:47 -07:00",
+    "NGAY_CHINH_SUA": "2021-11-28T07:41:48 -07:00",
+    "MA_GIAM_GIA": "SALE6394"
+  },
+  {
+    "key1": 49,
+    "key2": 59,
+    "MA_SAN_PHAM": "61a73cbb346e909c8f284e61",
+    "TEN_SAN_PHAM": "NOI COM DIEN4903",
+    "GIA_SAN_PHAM": "$2,989.61",
+    "NGAY_TAO": "2020-01-29T03:50:00 -07:00",
+    "NGAY_CHINH_SUA": "2021-02-06T12:50:28 -07:00",
+    "MA_GIAM_GIA": "SALE8278"
+  },
+  {
+    "key1": 26,
+    "key2": 99,
+    "MA_SAN_PHAM": "61a73cbb78512e71348c2f54",
+    "TEN_SAN_PHAM": "NOI COM DIEN2125",
+    "GIA_SAN_PHAM": "$3,384.32",
+    "NGAY_TAO": "2020-02-16T08:27:37 -07:00",
+    "NGAY_CHINH_SUA": "2020-05-09T09:08:49 -07:00",
+    "MA_GIAM_GIA": "SALE3947"
+  },
+  {
+    "key1": 45,
+    "key2": 93,
+    "MA_SAN_PHAM": "61a73cbb8f82b58e50d4c94f",
+    "TEN_SAN_PHAM": "NOI COM DIEN4763",
+    "GIA_SAN_PHAM": "$2,953.73",
+    "NGAY_TAO": "2021-01-10T07:38:52 -07:00",
+    "NGAY_CHINH_SUA": "2021-03-16T05:09:05 -07:00",
+    "MA_GIAM_GIA": "SALE1251"
+  },
+  {
+    "key1": 38,
+    "key2": 72,
+    "MA_SAN_PHAM": "61a73cbb2b513fa9e4eeec11",
+    "TEN_SAN_PHAM": "NOI COM DIEN4133",
+    "GIA_SAN_PHAM": "$3,276.26",
+    "NGAY_TAO": "2021-08-13T05:38:51 -07:00",
+    "NGAY_CHINH_SUA": "2020-04-01T04:22:15 -07:00",
+    "MA_GIAM_GIA": "SALE8131"
+  },
+  {
+    "key1": 16,
+    "key2": 90,
+    "MA_SAN_PHAM": "61a73cbbccff9119dad11bb3",
+    "TEN_SAN_PHAM": "NOI COM DIEN5173",
+    "GIA_SAN_PHAM": "$1,436.03",
+    "NGAY_TAO": "2021-09-21T05:20:22 -07:00",
+    "NGAY_CHINH_SUA": "2021-04-29T02:52:47 -07:00",
+    "MA_GIAM_GIA": "SALE7952"
+  },
+  {
+    "key1": 49,
+    "key2": 55,
+    "MA_SAN_PHAM": "61a73cbbcfac488995dba4cf",
+    "TEN_SAN_PHAM": "NOI COM DIEN9868",
+    "GIA_SAN_PHAM": "$3,538.35",
+    "NGAY_TAO": "2020-09-01T03:55:57 -07:00",
+    "NGAY_CHINH_SUA": "2020-04-04T12:33:42 -07:00",
+    "MA_GIAM_GIA": "SALE2877"
+  },
+  {
+    "key1": 37,
+    "key2": 84,
+    "MA_SAN_PHAM": "61a73cbb7f623687490e979a",
+    "TEN_SAN_PHAM": "NOI COM DIEN7258",
+    "GIA_SAN_PHAM": "$1,000.24",
+    "NGAY_TAO": "2021-08-28T04:57:54 -07:00",
+    "NGAY_CHINH_SUA": "2020-11-28T03:29:20 -07:00",
+    "MA_GIAM_GIA": "SALE3084"
+  },
+  {
+    "key1": 18,
+    "key2": 97,
+    "MA_SAN_PHAM": "61a73cbb384bb3db0146dc56",
+    "TEN_SAN_PHAM": "NOI COM DIEN7161",
+    "GIA_SAN_PHAM": "$3,643.15",
+    "NGAY_TAO": "2020-06-25T09:00:56 -07:00",
+    "NGAY_CHINH_SUA": "2020-10-17T10:26:27 -07:00",
+    "MA_GIAM_GIA": "SALE5481"
+  },
+  {
+    "key1": 16,
+    "key2": 67,
+    "MA_SAN_PHAM": "61a73cbbcdfd53ae114ac0c7",
+    "TEN_SAN_PHAM": "NOI COM DIEN4707",
+    "GIA_SAN_PHAM": "$2,547.80",
+    "NGAY_TAO": "2021-06-22T05:28:10 -07:00",
+    "NGAY_CHINH_SUA": "2020-07-23T04:23:23 -07:00",
+    "MA_GIAM_GIA": "SALE1156"
+  },
+  {
+    "key1": 42,
+    "key2": 74,
+    "MA_SAN_PHAM": "61a73cbb6f98edeabde1f3ad",
+    "TEN_SAN_PHAM": "NOI COM DIEN6728",
+    "GIA_SAN_PHAM": "$2,157.53",
+    "NGAY_TAO": "2020-12-19T06:07:31 -07:00",
+    "NGAY_CHINH_SUA": "2021-07-16T11:49:49 -07:00",
+    "MA_GIAM_GIA": "SALE4128"
+  },
+  {
+    "key1": 32,
+    "key2": 98,
+    "MA_SAN_PHAM": "61a73cbb70292376e53bc9f3",
+    "TEN_SAN_PHAM": "NOI COM DIEN3546",
+    "GIA_SAN_PHAM": "$1,620.57",
+    "NGAY_TAO": "2021-04-28T09:01:23 -07:00",
+    "NGAY_CHINH_SUA": "2020-03-03T12:06:18 -07:00",
+    "MA_GIAM_GIA": "SALE4102"
+  },
+  {
+    "key1": 12,
+    "key2": 78,
+    "MA_SAN_PHAM": "61a73cbbbe8fca97d1495410",
+    "TEN_SAN_PHAM": "NOI COM DIEN7301",
+    "GIA_SAN_PHAM": "$2,805.37",
+    "NGAY_TAO": "2020-12-29T11:25:45 -07:00",
+    "NGAY_CHINH_SUA": "2021-10-17T02:19:03 -07:00",
+    "MA_GIAM_GIA": "SALE1606"
+  },
+  {
+    "key1": 48,
+    "key2": 72,
+    "MA_SAN_PHAM": "61a73cbbae902517a198c8d5",
+    "TEN_SAN_PHAM": "NOI COM DIEN1296",
+    "GIA_SAN_PHAM": "$2,682.21",
+    "NGAY_TAO": "2020-02-11T12:42:41 -07:00",
+    "NGAY_CHINH_SUA": "2021-01-05T05:33:43 -07:00",
+    "MA_GIAM_GIA": "SALE9941"
+  },
+  {
+    "key1": 13,
+    "key2": 75,
+    "MA_SAN_PHAM": "61a73cbbad7aa61280f881f2",
+    "TEN_SAN_PHAM": "NOI COM DIEN5550",
+    "GIA_SAN_PHAM": "$3,186.20",
+    "NGAY_TAO": "2021-03-05T05:40:43 -07:00",
+    "NGAY_CHINH_SUA": "2021-01-13T04:18:14 -07:00",
+    "MA_GIAM_GIA": "SALE4779"
+  },
+  {
+    "key1": 19,
+    "key2": 72,
+    "MA_SAN_PHAM": "61a73cbb1485bf5a24a76668",
+    "TEN_SAN_PHAM": "NOI COM DIEN3424",
+    "GIA_SAN_PHAM": "$2,760.40",
+    "NGAY_TAO": "2021-04-05T04:12:01 -07:00",
+    "NGAY_CHINH_SUA": "2021-05-09T08:00:16 -07:00",
+    "MA_GIAM_GIA": "SALE5583"
+  },
+  {
+    "key1": 36,
+    "key2": 53,
+    "MA_SAN_PHAM": "61a73cbb750e6ff05d93691d",
+    "TEN_SAN_PHAM": "NOI COM DIEN9512",
+    "GIA_SAN_PHAM": "$2,923.43",
+    "NGAY_TAO": "2020-04-23T08:53:48 -07:00",
+    "NGAY_CHINH_SUA": "2020-05-31T09:28:55 -07:00",
+    "MA_GIAM_GIA": "SALE6806"
+  },
+  {
+    "key1": 30,
+    "key2": 60,
+    "MA_SAN_PHAM": "61a73cbb5646c8918431f3d0",
+    "TEN_SAN_PHAM": "NOI COM DIEN913",
+    "GIA_SAN_PHAM": "$1,960.20",
+    "NGAY_TAO": "2020-05-20T10:06:59 -07:00",
+    "NGAY_CHINH_SUA": "2021-01-20T06:34:39 -07:00",
+    "MA_GIAM_GIA": "SALE9727"
+  },
+  {
+    "key1": 13,
+    "key2": 99,
+    "MA_SAN_PHAM": "61a73cbb89e090d29adb7157",
+    "TEN_SAN_PHAM": "NOI COM DIEN5809",
+    "GIA_SAN_PHAM": "$2,555.16",
+    "NGAY_TAO": "2020-06-17T08:00:51 -07:00",
+    "NGAY_CHINH_SUA": "2021-09-17T09:49:38 -07:00",
+    "MA_GIAM_GIA": "SALE7006"
+  },
+  {
+    "key1": 11,
+    "key2": 50,
+    "MA_SAN_PHAM": "61a73cbb49aba45523ae9543",
+    "TEN_SAN_PHAM": "NOI COM DIEN6284",
+    "GIA_SAN_PHAM": "$1,376.48",
+    "NGAY_TAO": "2021-02-20T12:03:23 -07:00",
+    "NGAY_CHINH_SUA": "2020-09-19T01:42:22 -07:00",
+    "MA_GIAM_GIA": "SALE2981"
+  },
+  {
+    "key1": 10,
+    "key2": 82,
+    "MA_SAN_PHAM": "61a73cbbf7c34dcc9284cdb0",
+    "TEN_SAN_PHAM": "NOI COM DIEN7881",
+    "GIA_SAN_PHAM": "$1,303.39",
+    "NGAY_TAO": "2020-08-28T05:42:21 -07:00",
+    "NGAY_CHINH_SUA": "2021-07-28T12:13:42 -07:00",
+    "MA_GIAM_GIA": "SALE8830"
+  },
+  {
+    "key1": 39,
+    "key2": 91,
+    "MA_SAN_PHAM": "61a73cbb06a53ab7f1b0900f",
+    "TEN_SAN_PHAM": "NOI COM DIEN2153",
+    "GIA_SAN_PHAM": "$3,100.34",
+    "NGAY_TAO": "2021-08-19T11:11:10 -07:00",
+    "NGAY_CHINH_SUA": "2021-07-22T10:49:37 -07:00",
+    "MA_GIAM_GIA": "SALE9170"
+  },
+  {
+    "key1": 27,
+    "key2": 90,
+    "MA_SAN_PHAM": "61a73cbb2efc7013bd471a84",
+    "TEN_SAN_PHAM": "NOI COM DIEN8129",
+    "GIA_SAN_PHAM": "$2,473.50",
+    "NGAY_TAO": "2020-11-10T07:26:46 -07:00",
+    "NGAY_CHINH_SUA": "2020-12-06T08:29:15 -07:00",
+    "MA_GIAM_GIA": "SALE5901"
+  },
+  {
+    "key1": 26,
+    "key2": 56,
+    "MA_SAN_PHAM": "61a73cbbfab078119509201c",
+    "TEN_SAN_PHAM": "NOI COM DIEN1851",
+    "GIA_SAN_PHAM": "$2,282.20",
+    "NGAY_TAO": "2020-08-01T07:10:01 -07:00",
+    "NGAY_CHINH_SUA": "2020-11-16T05:03:50 -07:00",
+    "MA_GIAM_GIA": "SALE1807"
+  },
+  {
+    "key1": 19,
+    "key2": 71,
+    "MA_SAN_PHAM": "61a73cbb9eee8aeeb58dd497",
+    "TEN_SAN_PHAM": "NOI COM DIEN2703",
+    "GIA_SAN_PHAM": "$2,056.40",
+    "NGAY_TAO": "2021-10-11T02:16:24 -07:00",
+    "NGAY_CHINH_SUA": "2020-08-29T10:01:06 -07:00",
+    "MA_GIAM_GIA": "SALE2104"
+  },
+  {
+    "key1": 12,
+    "key2": 83,
+    "MA_SAN_PHAM": "61a73cbb3cf389a4035c3b5f",
+    "TEN_SAN_PHAM": "NOI COM DIEN7031",
+    "GIA_SAN_PHAM": "$1,400.13",
+    "NGAY_TAO": "2021-07-30T08:39:53 -07:00",
+    "NGAY_CHINH_SUA": "2020-02-11T09:46:31 -07:00",
+    "MA_GIAM_GIA": "SALE5391"
+  },
+  {
+    "key1": 19,
+    "key2": 91,
+    "MA_SAN_PHAM": "61a73cbb1a4acf46bfd54246",
+    "TEN_SAN_PHAM": "NOI COM DIEN9880",
+    "GIA_SAN_PHAM": "$3,677.14",
+    "NGAY_TAO": "2020-11-12T11:02:21 -07:00",
+    "NGAY_CHINH_SUA": "2021-06-06T03:20:37 -07:00",
+    "MA_GIAM_GIA": "SALE2971"
+  },
+  {
+    "key1": 40,
+    "key2": 90,
+    "MA_SAN_PHAM": "61a73cbb6d2d223811d5bbbf",
+    "TEN_SAN_PHAM": "NOI COM DIEN8396",
+    "GIA_SAN_PHAM": "$2,209.13",
+    "NGAY_TAO": "2021-05-12T06:03:21 -07:00",
+    "NGAY_CHINH_SUA": "2020-09-07T03:53:54 -07:00",
+    "MA_GIAM_GIA": "SALE2600"
+  },
+  {
+    "key1": 37,
+    "key2": 69,
+    "MA_SAN_PHAM": "61a73cbbf957a7488d99289e",
+    "TEN_SAN_PHAM": "NOI COM DIEN3960",
+    "GIA_SAN_PHAM": "$1,616.09",
+    "NGAY_TAO": "2020-07-24T06:57:12 -07:00",
+    "NGAY_CHINH_SUA": "2020-03-05T04:39:38 -07:00",
+    "MA_GIAM_GIA": "SALE3877"
+  },
+  {
+    "key1": 19,
+    "key2": 64,
+    "MA_SAN_PHAM": "61a73cbbf727ad3ca53a5941",
+    "TEN_SAN_PHAM": "NOI COM DIEN4646",
+    "GIA_SAN_PHAM": "$3,996.34",
+    "NGAY_TAO": "2020-11-07T01:00:10 -07:00",
+    "NGAY_CHINH_SUA": "2020-09-07T06:24:53 -07:00",
+    "MA_GIAM_GIA": "SALE8229"
+  },
+  {
+    "key1": 40,
+    "key2": 52,
+    "MA_SAN_PHAM": "61a73cbb66939a5f5b994f41",
+    "TEN_SAN_PHAM": "NOI COM DIEN4628",
+    "GIA_SAN_PHAM": "$2,587.54",
+    "NGAY_TAO": "2020-06-21T09:53:32 -07:00",
+    "NGAY_CHINH_SUA": "2020-04-28T01:55:15 -07:00",
+    "MA_GIAM_GIA": "SALE1711"
+  },
+  {
+    "key1": 25,
+    "key2": 91,
+    "MA_SAN_PHAM": "61a73cbb31bcfbf8a1479bf6",
+    "TEN_SAN_PHAM": "NOI COM DIEN4955",
+    "GIA_SAN_PHAM": "$2,175.74",
+    "NGAY_TAO": "2021-03-12T02:02:58 -07:00",
+    "NGAY_CHINH_SUA": "2021-08-30T01:39:58 -07:00",
+    "MA_GIAM_GIA": "SALE9342"
+  },
+  {
+    "key1": 23,
+    "key2": 65,
+    "MA_SAN_PHAM": "61a73cbb86f6c5bab32ec67a",
+    "TEN_SAN_PHAM": "NOI COM DIEN6861",
+    "GIA_SAN_PHAM": "$3,317.37",
+    "NGAY_TAO": "2021-03-02T12:07:23 -07:00",
+    "NGAY_CHINH_SUA": "2021-01-14T11:32:34 -07:00",
+    "MA_GIAM_GIA": "SALE4465"
+  },
+  {
+    "key1": 44,
+    "key2": 52,
+    "MA_SAN_PHAM": "61a73cbb537bdd143f4787c4",
+    "TEN_SAN_PHAM": "NOI COM DIEN955",
+    "GIA_SAN_PHAM": "$2,925.41",
+    "NGAY_TAO": "2021-06-23T04:05:47 -07:00",
+    "NGAY_CHINH_SUA": "2020-11-28T12:04:05 -07:00",
+    "MA_GIAM_GIA": "SALE5658"
+  },
+  {
+    "key1": 49,
+    "key2": 80,
+    "MA_SAN_PHAM": "61a73cbb5a7ff00481e0c6e1",
+    "TEN_SAN_PHAM": "NOI COM DIEN5699",
+    "GIA_SAN_PHAM": "$3,385.13",
+    "NGAY_TAO": "2020-01-11T11:15:33 -07:00",
+    "NGAY_CHINH_SUA": "2021-07-31T12:01:19 -07:00",
+    "MA_GIAM_GIA": "SALE8060"
+  },
+  {
+    "key1": 41,
+    "key2": 68,
+    "MA_SAN_PHAM": "61a73cbb8fd12e05501543de",
+    "TEN_SAN_PHAM": "NOI COM DIEN7573",
+    "GIA_SAN_PHAM": "$3,163.87",
+    "NGAY_TAO": "2021-09-08T05:54:42 -07:00",
+    "NGAY_CHINH_SUA": "2021-02-14T04:42:24 -07:00",
+    "MA_GIAM_GIA": "SALE7786"
+  },
+  {
+    "key1": 35,
+    "key2": 93,
+    "MA_SAN_PHAM": "61a73cbbc822af64096596ed",
+    "TEN_SAN_PHAM": "NOI COM DIEN2749",
+    "GIA_SAN_PHAM": "$3,141.76",
+    "NGAY_TAO": "2021-01-15T09:02:52 -07:00",
+    "NGAY_CHINH_SUA": "2021-01-13T04:15:06 -07:00",
+    "MA_GIAM_GIA": "SALE4976"
+  },
+  {
+    "key1": 26,
+    "key2": 79,
+    "MA_SAN_PHAM": "61a73cbbc7aa78e7b173085e",
+    "TEN_SAN_PHAM": "NOI COM DIEN6231",
+    "GIA_SAN_PHAM": "$3,824.67",
+    "NGAY_TAO": "2020-12-18T10:47:53 -07:00",
+    "NGAY_CHINH_SUA": "2020-10-13T10:08:11 -07:00",
+    "MA_GIAM_GIA": "SALE5732"
+  },
+  {
+    "key1": 47,
+    "key2": 65,
+    "MA_SAN_PHAM": "61a73cbb34f4c5248fc106a2",
+    "TEN_SAN_PHAM": "NOI COM DIEN9816",
+    "GIA_SAN_PHAM": "$2,824.28",
+    "NGAY_TAO": "2021-03-19T09:30:32 -07:00",
+    "NGAY_CHINH_SUA": "2020-11-15T06:35:08 -07:00",
+    "MA_GIAM_GIA": "SALE6145"
+  },
+  {
+    "key1": 36,
+    "key2": 90,
+    "MA_SAN_PHAM": "61a73cbba05185cbbf25e437",
+    "TEN_SAN_PHAM": "NOI COM DIEN9065",
+    "GIA_SAN_PHAM": "$1,001.84",
+    "NGAY_TAO": "2020-11-24T11:09:43 -07:00",
+    "NGAY_CHINH_SUA": "2020-07-22T09:26:52 -07:00",
+    "MA_GIAM_GIA": "SALE7375"
+  },
+  {
+    "key1": 37,
+    "key2": 98,
+    "MA_SAN_PHAM": "61a73cbbbe50f35534a97200",
+    "TEN_SAN_PHAM": "NOI COM DIEN3733",
+    "GIA_SAN_PHAM": "$1,545.52",
+    "NGAY_TAO": "2020-10-20T02:41:12 -07:00",
+    "NGAY_CHINH_SUA": "2021-05-06T05:37:00 -07:00",
+    "MA_GIAM_GIA": "SALE4770"
+  },
+  {
+    "key1": 47,
+    "key2": 75,
+    "MA_SAN_PHAM": "61a73cbbc024f7381b210305",
+    "TEN_SAN_PHAM": "NOI COM DIEN9033",
+    "GIA_SAN_PHAM": "$3,997.33",
+    "NGAY_TAO": "2021-02-14T09:50:24 -07:00",
+    "NGAY_CHINH_SUA": "2021-02-08T02:04:51 -07:00",
+    "MA_GIAM_GIA": "SALE7746"
+  },
+  {
+    "key1": 40,
+    "key2": 79,
+    "MA_SAN_PHAM": "61a73cbb4b6c2fa56ccc27d7",
+    "TEN_SAN_PHAM": "NOI COM DIEN5799",
+    "GIA_SAN_PHAM": "$1,538.99",
+    "NGAY_TAO": "2020-10-04T09:07:06 -07:00",
+    "NGAY_CHINH_SUA": "2020-03-23T07:03:58 -07:00",
+    "MA_GIAM_GIA": "SALE5353"
+  },
+  {
+    "key1": 31,
+    "key2": 99,
+    "MA_SAN_PHAM": "61a73cbbaae05b275f4788c4",
+    "TEN_SAN_PHAM": "NOI COM DIEN8872",
+    "GIA_SAN_PHAM": "$2,466.50",
+    "NGAY_TAO": "2020-03-18T06:00:28 -07:00",
+    "NGAY_CHINH_SUA": "2021-07-14T05:18:16 -07:00",
+    "MA_GIAM_GIA": "SALE5092"
+  },
+  {
+    "key1": 15,
+    "key2": 93,
+    "MA_SAN_PHAM": "61a73cbbd00627262de7cfd4",
+    "TEN_SAN_PHAM": "NOI COM DIEN4841",
+    "GIA_SAN_PHAM": "$2,886.15",
+    "NGAY_TAO": "2020-02-18T05:29:25 -07:00",
+    "NGAY_CHINH_SUA": "2021-04-06T09:51:16 -07:00",
+    "MA_GIAM_GIA": "SALE6074"
+  },
+  {
+    "key1": 48,
+    "key2": 80,
+    "MA_SAN_PHAM": "61a73cbb2c6323b0e7e0ed81",
+    "TEN_SAN_PHAM": "NOI COM DIEN7025",
+    "GIA_SAN_PHAM": "$2,800.24",
+    "NGAY_TAO": "2020-10-28T02:05:13 -07:00",
+    "NGAY_CHINH_SUA": "2020-03-14T04:15:35 -07:00",
+    "MA_GIAM_GIA": "SALE7662"
+  },
+  {
+    "key1": 20,
+    "key2": 58,
+    "MA_SAN_PHAM": "61a73cbb6a33b4be3d160e9a",
+    "TEN_SAN_PHAM": "NOI COM DIEN3699",
+    "GIA_SAN_PHAM": "$2,362.99",
+    "NGAY_TAO": "2020-03-13T06:55:00 -07:00",
+    "NGAY_CHINH_SUA": "2021-08-23T09:17:43 -07:00",
+    "MA_GIAM_GIA": "SALE7461"
+  },
+  {
+    "key1": 35,
+    "key2": 71,
+    "MA_SAN_PHAM": "61a73cbbeb6766da2ef18930",
+    "TEN_SAN_PHAM": "NOI COM DIEN1620",
+    "GIA_SAN_PHAM": "$1,445.24",
+    "NGAY_TAO": "2020-12-31T08:50:33 -07:00",
+    "NGAY_CHINH_SUA": "2020-08-21T06:41:14 -07:00",
+    "MA_GIAM_GIA": "SALE8110"
+  },
+  {
+    "key1": 25,
+    "key2": 54,
+    "MA_SAN_PHAM": "61a73cbb201775c5b5ac9280",
+    "TEN_SAN_PHAM": "NOI COM DIEN7590",
+    "GIA_SAN_PHAM": "$1,878.80",
+    "NGAY_TAO": "2020-11-26T01:16:23 -07:00",
+    "NGAY_CHINH_SUA": "2020-03-09T03:48:03 -07:00",
+    "MA_GIAM_GIA": "SALE4048"
+  },
+  {
+    "key1": 35,
+    "key2": 94,
+    "MA_SAN_PHAM": "61a73cbb5f7842d8c6d8ab2d",
+    "TEN_SAN_PHAM": "NOI COM DIEN4140",
+    "GIA_SAN_PHAM": "$3,709.39",
+    "NGAY_TAO": "2021-03-10T10:24:02 -07:00",
+    "NGAY_CHINH_SUA": "2020-12-22T12:54:57 -07:00",
+    "MA_GIAM_GIA": "SALE1697"
+  },
+  {
+    "key1": 25,
+    "key2": 88,
+    "MA_SAN_PHAM": "61a73cbb0d3debc6641eaf5a",
+    "TEN_SAN_PHAM": "NOI COM DIEN4323",
+    "GIA_SAN_PHAM": "$3,022.35",
+    "NGAY_TAO": "2021-06-10T04:06:35 -07:00",
+    "NGAY_CHINH_SUA": "2021-04-01T08:46:37 -07:00",
+    "MA_GIAM_GIA": "SALE5338"
+  },
+  {
+    "key1": 43,
+    "key2": 73,
+    "MA_SAN_PHAM": "61a73cbbc49318461a3d31c0",
+    "TEN_SAN_PHAM": "NOI COM DIEN108",
+    "GIA_SAN_PHAM": "$2,132.84",
+    "NGAY_TAO": "2020-07-29T07:16:42 -07:00",
+    "NGAY_CHINH_SUA": "2020-09-22T11:10:41 -07:00",
+    "MA_GIAM_GIA": "SALE7195"
+  },
+  {
+    "key1": 37,
+    "key2": 80,
+    "MA_SAN_PHAM": "61a73cbbf5ba29f60c1dbbce",
+    "TEN_SAN_PHAM": "NOI COM DIEN191",
+    "GIA_SAN_PHAM": "$2,993.11",
+    "NGAY_TAO": "2021-04-10T12:43:11 -07:00",
+    "NGAY_CHINH_SUA": "2021-01-16T09:32:20 -07:00",
+    "MA_GIAM_GIA": "SALE7110"
+  },
+  {
+    "key1": 25,
+    "key2": 75,
+    "MA_SAN_PHAM": "61a73cbb92232cb5b17b1495",
+    "TEN_SAN_PHAM": "NOI COM DIEN1017",
+    "GIA_SAN_PHAM": "$2,163.80",
+    "NGAY_TAO": "2021-09-14T12:16:37 -07:00",
+    "NGAY_CHINH_SUA": "2020-02-09T04:32:19 -07:00",
+    "MA_GIAM_GIA": "SALE5367"
+  },
+  {
+    "key1": 14,
+    "key2": 95,
+    "MA_SAN_PHAM": "61a73cbb983ee03f73331b81",
+    "TEN_SAN_PHAM": "NOI COM DIEN3662",
+    "GIA_SAN_PHAM": "$3,191.23",
+    "NGAY_TAO": "2020-02-29T10:28:43 -07:00",
+    "NGAY_CHINH_SUA": "2020-06-12T08:25:31 -07:00",
+    "MA_GIAM_GIA": "SALE1966"
+  },
+  {
+    "key1": 23,
+    "key2": 70,
+    "MA_SAN_PHAM": "61a73cbb5cc02687702447fb",
+    "TEN_SAN_PHAM": "NOI COM DIEN6859",
+    "GIA_SAN_PHAM": "$2,687.67",
+    "NGAY_TAO": "2021-03-15T10:12:49 -07:00",
+    "NGAY_CHINH_SUA": "2021-01-27T09:12:25 -07:00",
+    "MA_GIAM_GIA": "SALE3887"
+  },
+  {
+    "key1": 22,
+    "key2": 67,
+    "MA_SAN_PHAM": "61a73cbb89982def95f6d1dd",
+    "TEN_SAN_PHAM": "NOI COM DIEN7247",
+    "GIA_SAN_PHAM": "$1,019.75",
+    "NGAY_TAO": "2020-03-31T09:29:52 -07:00",
+    "NGAY_CHINH_SUA": "2021-07-14T02:49:25 -07:00",
+    "MA_GIAM_GIA": "SALE4081"
+  },
+  {
+    "key1": 30,
+    "key2": 67,
+    "MA_SAN_PHAM": "61a73cbb1d69b800942589cb",
+    "TEN_SAN_PHAM": "NOI COM DIEN6515",
+    "GIA_SAN_PHAM": "$3,764.52",
+    "NGAY_TAO": "2021-06-05T01:09:10 -07:00",
+    "NGAY_CHINH_SUA": "2021-06-13T12:37:41 -07:00",
+    "MA_GIAM_GIA": "SALE8413"
+  },
+  {
+    "key1": 23,
+    "key2": 94,
+    "MA_SAN_PHAM": "61a73cbba1eb6168377c29f1",
+    "TEN_SAN_PHAM": "NOI COM DIEN8265",
+    "GIA_SAN_PHAM": "$1,786.62",
+    "NGAY_TAO": "2020-04-02T11:25:40 -07:00",
+    "NGAY_CHINH_SUA": "2020-09-27T10:39:01 -07:00",
+    "MA_GIAM_GIA": "SALE3530"
+  },
+  {
+    "key1": 22,
+    "key2": 57,
+    "MA_SAN_PHAM": "61a73cbb6f52649f8a0ba5ce",
+    "TEN_SAN_PHAM": "NOI COM DIEN6391",
+    "GIA_SAN_PHAM": "$2,176.99",
+    "NGAY_TAO": "2020-05-21T06:23:11 -07:00",
+    "NGAY_CHINH_SUA": "2020-03-20T12:49:21 -07:00",
+    "MA_GIAM_GIA": "SALE4243"
+  },
+  {
+    "key1": 45,
+    "key2": 80,
+    "MA_SAN_PHAM": "61a73cbbd310c7f01e399e5f",
+    "TEN_SAN_PHAM": "NOI COM DIEN9412",
+    "GIA_SAN_PHAM": "$3,956.26",
+    "NGAY_TAO": "2021-05-18T09:55:20 -07:00",
+    "NGAY_CHINH_SUA": "2020-03-25T06:49:29 -07:00",
+    "MA_GIAM_GIA": "SALE4040"
+  },
+  {
+    "key1": 49,
+    "key2": 88,
+    "MA_SAN_PHAM": "61a73cbb3c7973fc162093ff",
+    "TEN_SAN_PHAM": "NOI COM DIEN6796",
+    "GIA_SAN_PHAM": "$3,394.82",
+    "NGAY_TAO": "2021-03-28T04:18:28 -07:00",
+    "NGAY_CHINH_SUA": "2020-03-02T07:07:02 -07:00",
+    "MA_GIAM_GIA": "SALE8591"
+  },
+  {
+    "key1": 23,
+    "key2": 85,
+    "MA_SAN_PHAM": "61a73cbbc72ea19693dd4f38",
+    "TEN_SAN_PHAM": "NOI COM DIEN9068",
+    "GIA_SAN_PHAM": "$3,385.60",
+    "NGAY_TAO": "2021-06-08T07:27:55 -07:00",
+    "NGAY_CHINH_SUA": "2021-06-11T05:30:01 -07:00",
+    "MA_GIAM_GIA": "SALE4872"
+  },
+  {
+    "key1": 39,
+    "key2": 72,
+    "MA_SAN_PHAM": "61a73cbb74e32f7a1c9b1121",
+    "TEN_SAN_PHAM": "NOI COM DIEN7260",
+    "GIA_SAN_PHAM": "$3,264.59",
+    "NGAY_TAO": "2021-06-16T06:25:51 -07:00",
+    "NGAY_CHINH_SUA": "2021-11-18T01:53:03 -07:00",
+    "MA_GIAM_GIA": "SALE3160"
+  },
+  {
+    "key1": 43,
+    "key2": 84,
+    "MA_SAN_PHAM": "61a73cbbcab851ce6515ee0b",
+    "TEN_SAN_PHAM": "NOI COM DIEN8383",
+    "GIA_SAN_PHAM": "$2,566.64",
+    "NGAY_TAO": "2021-09-03T01:00:14 -07:00",
+    "NGAY_CHINH_SUA": "2021-08-19T12:07:58 -07:00",
+    "MA_GIAM_GIA": "SALE6797"
+  },
+  {
+    "key1": 32,
+    "key2": 93,
+    "MA_SAN_PHAM": "61a73cbb8fad9723f0083d56",
+    "TEN_SAN_PHAM": "NOI COM DIEN1281",
+    "GIA_SAN_PHAM": "$2,232.98",
+    "NGAY_TAO": "2021-04-16T09:00:03 -07:00",
+    "NGAY_CHINH_SUA": "2021-06-12T05:07:39 -07:00",
+    "MA_GIAM_GIA": "SALE6372"
+  },
+  {
+    "key1": 21,
+    "key2": 89,
+    "MA_SAN_PHAM": "61a73cbb886b975222ce439b",
+    "TEN_SAN_PHAM": "NOI COM DIEN9969",
+    "GIA_SAN_PHAM": "$3,560.10",
+    "NGAY_TAO": "2020-10-09T09:29:54 -07:00",
+    "NGAY_CHINH_SUA": "2021-06-04T05:10:20 -07:00",
+    "MA_GIAM_GIA": "SALE9777"
+  },
+  {
+    "key1": 27,
+    "key2": 72,
+    "MA_SAN_PHAM": "61a73cbba584dae8ebb7a977",
+    "TEN_SAN_PHAM": "NOI COM DIEN5923",
+    "GIA_SAN_PHAM": "$2,800.76",
+    "NGAY_TAO": "2020-02-12T02:32:31 -07:00",
+    "NGAY_CHINH_SUA": "2020-03-04T06:41:52 -07:00",
+    "MA_GIAM_GIA": "SALE6690"
+  },
+  {
+    "key1": 24,
+    "key2": 55,
+    "MA_SAN_PHAM": "61a73cbb6f4a059eb9506766",
+    "TEN_SAN_PHAM": "NOI COM DIEN9175",
+    "GIA_SAN_PHAM": "$2,652.36",
+    "NGAY_TAO": "2021-02-02T11:31:14 -07:00",
+    "NGAY_CHINH_SUA": "2020-03-01T06:55:42 -07:00",
+    "MA_GIAM_GIA": "SALE8296"
+  },
+  {
+    "key1": 30,
+    "key2": 81,
+    "MA_SAN_PHAM": "61a73cbb00b1017968b88969",
+    "TEN_SAN_PHAM": "NOI COM DIEN4373",
+    "GIA_SAN_PHAM": "$1,262.96",
+    "NGAY_TAO": "2021-08-20T11:28:44 -07:00",
+    "NGAY_CHINH_SUA": "2021-03-08T04:47:34 -07:00",
+    "MA_GIAM_GIA": "SALE1778"
+  },
+  {
+    "key1": 47,
+    "key2": 93,
+    "MA_SAN_PHAM": "61a73cbb62222ed25099d539",
+    "TEN_SAN_PHAM": "NOI COM DIEN5446",
+    "GIA_SAN_PHAM": "$2,314.65",
+    "NGAY_TAO": "2021-07-12T07:00:59 -07:00",
+    "NGAY_CHINH_SUA": "2020-01-08T09:39:27 -07:00",
+    "MA_GIAM_GIA": "SALE8487"
+  },
+  {
+    "key1": 42,
+    "key2": 59,
+    "MA_SAN_PHAM": "61a73cbb3a68056382e2e6a6",
+    "TEN_SAN_PHAM": "NOI COM DIEN102",
+    "GIA_SAN_PHAM": "$3,335.47",
+    "NGAY_TAO": "2021-06-01T11:05:16 -07:00",
+    "NGAY_CHINH_SUA": "2020-01-23T05:45:54 -07:00",
+    "MA_GIAM_GIA": "SALE2741"
+  },
+  {
+    "key1": 29,
+    "key2": 56,
+    "MA_SAN_PHAM": "61a73cbbf4689f2a9096caf1",
+    "TEN_SAN_PHAM": "NOI COM DIEN8501",
+    "GIA_SAN_PHAM": "$2,217.31",
+    "NGAY_TAO": "2020-11-25T06:24:03 -07:00",
+    "NGAY_CHINH_SUA": "2020-02-11T08:58:45 -07:00",
+    "MA_GIAM_GIA": "SALE1263"
+  },
+  {
+    "key1": 23,
+    "key2": 83,
+    "MA_SAN_PHAM": "61a73cbb9c14f40338c614d8",
+    "TEN_SAN_PHAM": "NOI COM DIEN2293",
+    "GIA_SAN_PHAM": "$2,975.85",
+    "NGAY_TAO": "2020-03-22T12:55:58 -07:00",
+    "NGAY_CHINH_SUA": "2020-03-21T02:48:41 -07:00",
+    "MA_GIAM_GIA": "SALE8658"
+  },
+  {
+    "key1": 49,
+    "key2": 96,
+    "MA_SAN_PHAM": "61a73cbb10ffc8901daf2b43",
+    "TEN_SAN_PHAM": "NOI COM DIEN2714",
+    "GIA_SAN_PHAM": "$1,894.07",
+    "NGAY_TAO": "2021-03-06T05:07:28 -07:00",
+    "NGAY_CHINH_SUA": "2020-04-25T11:29:34 -07:00",
+    "MA_GIAM_GIA": "SALE7841"
+  },
+  {
+    "key1": 36,
+    "key2": 54,
+    "MA_SAN_PHAM": "61a73cbbfe69d1497a5d5345",
+    "TEN_SAN_PHAM": "NOI COM DIEN5796",
+    "GIA_SAN_PHAM": "$3,005.07",
+    "NGAY_TAO": "2021-02-16T03:51:35 -07:00",
+    "NGAY_CHINH_SUA": "2020-07-19T04:08:43 -07:00",
+    "MA_GIAM_GIA": "SALE3536"
+  },
+  {
+    "key1": 35,
+    "key2": 63,
+    "MA_SAN_PHAM": "61a73cbbb3cd0fc7e99ddcc1",
+    "TEN_SAN_PHAM": "NOI COM DIEN9588",
+    "GIA_SAN_PHAM": "$2,489.22",
+    "NGAY_TAO": "2020-01-28T11:06:50 -07:00",
+    "NGAY_CHINH_SUA": "2020-10-13T12:14:07 -07:00",
+    "MA_GIAM_GIA": "SALE5196"
+  },
+  {
+    "key1": 13,
+    "key2": 51,
+    "MA_SAN_PHAM": "61a73cbb6147d579ffb80064",
+    "TEN_SAN_PHAM": "NOI COM DIEN2611",
+    "GIA_SAN_PHAM": "$2,425.37",
+    "NGAY_TAO": "2020-10-21T04:08:32 -07:00",
+    "NGAY_CHINH_SUA": "2020-03-16T07:23:11 -07:00",
+    "MA_GIAM_GIA": "SALE7996"
+  },
+  {
+    "key1": 29,
+    "key2": 85,
+    "MA_SAN_PHAM": "61a73cbb8b159a2bd9143299",
+    "TEN_SAN_PHAM": "NOI COM DIEN8527",
+    "GIA_SAN_PHAM": "$2,467.14",
+    "NGAY_TAO": "2021-07-02T10:51:12 -07:00",
+    "NGAY_CHINH_SUA": "2020-02-04T05:26:19 -07:00",
+    "MA_GIAM_GIA": "SALE2994"
+  },
+  {
+    "key1": 13,
+    "key2": 90,
+    "MA_SAN_PHAM": "61a73cbbab4a72ffea37b44f",
+    "TEN_SAN_PHAM": "NOI COM DIEN1304",
+    "GIA_SAN_PHAM": "$3,643.02",
+    "NGAY_TAO": "2021-04-15T02:52:18 -07:00",
+    "NGAY_CHINH_SUA": "2021-06-02T08:39:54 -07:00",
+    "MA_GIAM_GIA": "SALE8614"
+  },
+  {
+    "key1": 49,
+    "key2": 77,
+    "MA_SAN_PHAM": "61a73cbbb9fd4ea99b82ce38",
+    "TEN_SAN_PHAM": "NOI COM DIEN6568",
+    "GIA_SAN_PHAM": "$1,314.18",
+    "NGAY_TAO": "2020-06-28T10:10:08 -07:00",
+    "NGAY_CHINH_SUA": "2020-09-22T04:55:38 -07:00",
+    "MA_GIAM_GIA": "SALE2645"
+  },
+  {
+    "key1": 24,
+    "key2": 81,
+    "MA_SAN_PHAM": "61a73cbb7f6f17fc334fa270",
+    "TEN_SAN_PHAM": "NOI COM DIEN7443",
+    "GIA_SAN_PHAM": "$2,533.56",
+    "NGAY_TAO": "2020-12-12T09:50:04 -07:00",
+    "NGAY_CHINH_SUA": "2021-10-20T04:44:04 -07:00",
+    "MA_GIAM_GIA": "SALE5939"
+  },
+  {
+    "key1": 27,
+    "key2": 97,
+    "MA_SAN_PHAM": "61a73cbb3d06355d7283daa4",
+    "TEN_SAN_PHAM": "NOI COM DIEN6720",
+    "GIA_SAN_PHAM": "$1,817.93",
+    "NGAY_TAO": "2020-06-29T04:16:44 -07:00",
+    "NGAY_CHINH_SUA": "2020-02-22T10:50:00 -07:00",
+    "MA_GIAM_GIA": "SALE7578"
+  },
+  {
+    "key1": 17,
+    "key2": 77,
+    "MA_SAN_PHAM": "61a73cbb998a5b4e45826f75",
+    "TEN_SAN_PHAM": "NOI COM DIEN3607",
+    "GIA_SAN_PHAM": "$1,427.54",
+    "NGAY_TAO": "2021-07-03T05:33:26 -07:00",
+    "NGAY_CHINH_SUA": "2020-12-13T04:57:55 -07:00",
+    "MA_GIAM_GIA": "SALE8221"
+  },
+  {
+    "key1": 21,
+    "key2": 78,
+    "MA_SAN_PHAM": "61a73cbbf22188254de5679f",
+    "TEN_SAN_PHAM": "NOI COM DIEN5434",
+    "GIA_SAN_PHAM": "$2,834.03",
+    "NGAY_TAO": "2020-07-31T12:44:20 -07:00",
+    "NGAY_CHINH_SUA": "2021-01-12T12:01:47 -07:00",
+    "MA_GIAM_GIA": "SALE5580"
+  },
+  {
+    "key1": 32,
+    "key2": 89,
+    "MA_SAN_PHAM": "61a73cbbcc6b9ce3db772b46",
+    "TEN_SAN_PHAM": "NOI COM DIEN9643",
+    "GIA_SAN_PHAM": "$1,117.23",
+    "NGAY_TAO": "2020-04-20T05:00:48 -07:00",
+    "NGAY_CHINH_SUA": "2021-11-13T05:45:31 -07:00",
+    "MA_GIAM_GIA": "SALE5648"
+  },
+  {
+    "key1": 47,
+    "key2": 79,
+    "MA_SAN_PHAM": "61a73cbb965b8fdf291257a1",
+    "TEN_SAN_PHAM": "NOI COM DIEN4380",
+    "GIA_SAN_PHAM": "$2,863.20",
+    "NGAY_TAO": "2020-07-22T01:54:20 -07:00",
+    "NGAY_CHINH_SUA": "2020-01-15T08:42:03 -07:00",
+    "MA_GIAM_GIA": "SALE7915"
+  },
+  {
+    "key1": 15,
+    "key2": 55,
+    "MA_SAN_PHAM": "61a73cbb0218a11fb1256a7b",
+    "TEN_SAN_PHAM": "NOI COM DIEN4431",
+    "GIA_SAN_PHAM": "$3,334.34",
+    "NGAY_TAO": "2021-01-04T03:46:36 -07:00",
+    "NGAY_CHINH_SUA": "2021-05-20T07:40:44 -07:00",
+    "MA_GIAM_GIA": "SALE1031"
+  },
+  {
+    "key1": 29,
+    "key2": 79,
+    "MA_SAN_PHAM": "61a73cbbbaf3285c4246f6c9",
+    "TEN_SAN_PHAM": "NOI COM DIEN1353",
+    "GIA_SAN_PHAM": "$2,192.22",
+    "NGAY_TAO": "2020-08-10T01:39:26 -07:00",
+    "NGAY_CHINH_SUA": "2021-04-04T08:19:50 -07:00",
+    "MA_GIAM_GIA": "SALE8175"
+  },
+  {
+    "key1": 28,
+    "key2": 93,
+    "MA_SAN_PHAM": "61a73cbb1441321b3f6242cd",
+    "TEN_SAN_PHAM": "NOI COM DIEN4105",
+    "GIA_SAN_PHAM": "$1,817.20",
+    "NGAY_TAO": "2020-04-13T11:18:37 -07:00",
+    "NGAY_CHINH_SUA": "2021-04-22T05:19:12 -07:00",
+    "MA_GIAM_GIA": "SALE7806"
+  },
+  {
+    "key1": 31,
+    "key2": 69,
+    "MA_SAN_PHAM": "61a73cbb43d3a4801a38774f",
+    "TEN_SAN_PHAM": "NOI COM DIEN3553",
+    "GIA_SAN_PHAM": "$2,756.36",
+    "NGAY_TAO": "2021-06-27T10:24:17 -07:00",
+    "NGAY_CHINH_SUA": "2021-01-19T12:34:54 -07:00",
+    "MA_GIAM_GIA": "SALE9019"
+  },
+  {
+    "key1": 35,
+    "key2": 62,
+    "MA_SAN_PHAM": "61a73cbba5ac12f2b4fb5cdb",
+    "TEN_SAN_PHAM": "NOI COM DIEN1706",
+    "GIA_SAN_PHAM": "$1,347.94",
+    "NGAY_TAO": "2020-09-22T11:29:12 -07:00",
+    "NGAY_CHINH_SUA": "2021-09-17T03:48:21 -07:00",
+    "MA_GIAM_GIA": "SALE8710"
+  },
+  {
+    "key1": 16,
+    "key2": 80,
+    "MA_SAN_PHAM": "61a73cbbf02613a3bd856e12",
+    "TEN_SAN_PHAM": "NOI COM DIEN1618",
+    "GIA_SAN_PHAM": "$1,354.27",
+    "NGAY_TAO": "2020-08-07T11:43:35 -07:00",
+    "NGAY_CHINH_SUA": "2021-01-10T01:13:48 -07:00",
+    "MA_GIAM_GIA": "SALE3447"
+  },
+  {
+    "key1": 18,
+    "key2": 61,
+    "MA_SAN_PHAM": "61a73cbbc5f10319ba6c071e",
+    "TEN_SAN_PHAM": "NOI COM DIEN6184",
+    "GIA_SAN_PHAM": "$3,620.40",
+    "NGAY_TAO": "2021-01-02T08:02:33 -07:00",
+    "NGAY_CHINH_SUA": "2021-07-06T07:20:23 -07:00",
+    "MA_GIAM_GIA": "SALE3802"
+  },
+  {
+    "key1": 32,
+    "key2": 74,
+    "MA_SAN_PHAM": "61a73cbb59d7b8ea749a6569",
+    "TEN_SAN_PHAM": "NOI COM DIEN824",
+    "GIA_SAN_PHAM": "$1,502.43",
+    "NGAY_TAO": "2021-04-26T10:59:22 -07:00",
+    "NGAY_CHINH_SUA": "2020-07-27T12:11:17 -07:00",
+    "MA_GIAM_GIA": "SALE7292"
+  },
+  {
+    "key1": 29,
+    "key2": 87,
+    "MA_SAN_PHAM": "61a73cbb3c7997c8ab2a2fcf",
+    "TEN_SAN_PHAM": "NOI COM DIEN8231",
+    "GIA_SAN_PHAM": "$1,348.75",
+    "NGAY_TAO": "2021-07-31T09:29:59 -07:00",
+    "NGAY_CHINH_SUA": "2020-05-03T02:02:18 -07:00",
+    "MA_GIAM_GIA": "SALE7105"
+  },
+  {
+    "key1": 33,
+    "key2": 90,
+    "MA_SAN_PHAM": "61a73cbb52ea92205659a231",
+    "TEN_SAN_PHAM": "NOI COM DIEN2505",
+    "GIA_SAN_PHAM": "$1,063.35",
+    "NGAY_TAO": "2021-05-21T05:52:02 -07:00",
+    "NGAY_CHINH_SUA": "2020-12-17T09:38:17 -07:00",
+    "MA_GIAM_GIA": "SALE9119"
+  },
+  {
+    "key1": 15,
+    "key2": 57,
+    "MA_SAN_PHAM": "61a73cbb45d5831e6170a097",
+    "TEN_SAN_PHAM": "NOI COM DIEN1092",
+    "GIA_SAN_PHAM": "$3,580.18",
+    "NGAY_TAO": "2021-02-17T10:36:23 -07:00",
+    "NGAY_CHINH_SUA": "2021-07-12T10:22:45 -07:00",
+    "MA_GIAM_GIA": "SALE5807"
+  },
+  {
+    "key1": 10,
+    "key2": 82,
+    "MA_SAN_PHAM": "61a73cbbfc901fc8fffc4099",
+    "TEN_SAN_PHAM": "NOI COM DIEN9550",
+    "GIA_SAN_PHAM": "$3,937.16",
+    "NGAY_TAO": "2020-03-20T11:12:29 -07:00",
+    "NGAY_CHINH_SUA": "2021-02-05T04:11:59 -07:00",
+    "MA_GIAM_GIA": "SALE2613"
+  },
+  {
+    "key1": 40,
+    "key2": 73,
+    "MA_SAN_PHAM": "61a73cbb7a1925c400dfd14c",
+    "TEN_SAN_PHAM": "NOI COM DIEN3505",
+    "GIA_SAN_PHAM": "$1,475.42",
+    "NGAY_TAO": "2020-03-21T10:07:20 -07:00",
+    "NGAY_CHINH_SUA": "2020-01-19T11:28:22 -07:00",
+    "MA_GIAM_GIA": "SALE3692"
+  },
+  {
+    "key1": 21,
+    "key2": 56,
+    "MA_SAN_PHAM": "61a73cbbd8278e2f37aa884e",
+    "TEN_SAN_PHAM": "NOI COM DIEN9977",
+    "GIA_SAN_PHAM": "$3,586.18",
+    "NGAY_TAO": "2021-05-17T11:21:28 -07:00",
+    "NGAY_CHINH_SUA": "2021-11-12T07:51:11 -07:00",
+    "MA_GIAM_GIA": "SALE9903"
+  },
+  {
+    "key1": 46,
+    "key2": 52,
+    "MA_SAN_PHAM": "61a73cbb6a231b53021f6c2a",
+    "TEN_SAN_PHAM": "NOI COM DIEN7387",
+    "GIA_SAN_PHAM": "$2,709.82",
+    "NGAY_TAO": "2020-10-18T06:24:44 -07:00",
+    "NGAY_CHINH_SUA": "2020-01-23T09:34:08 -07:00",
+    "MA_GIAM_GIA": "SALE2734"
+  },
+  {
+    "key1": 24,
+    "key2": 98,
+    "MA_SAN_PHAM": "61a73cbb9a770fd80a670b41",
+    "TEN_SAN_PHAM": "NOI COM DIEN6765",
+    "GIA_SAN_PHAM": "$1,496.05",
+    "NGAY_TAO": "2021-01-03T10:19:47 -07:00",
+    "NGAY_CHINH_SUA": "2021-06-27T10:21:06 -07:00",
+    "MA_GIAM_GIA": "SALE5536"
+  },
+  {
+    "key1": 32,
+    "key2": 75,
+    "MA_SAN_PHAM": "61a73cbb36d90446099af63d",
+    "TEN_SAN_PHAM": "NOI COM DIEN6164",
+    "GIA_SAN_PHAM": "$1,993.94",
+    "NGAY_TAO": "2020-09-22T07:05:36 -07:00",
+    "NGAY_CHINH_SUA": "2020-09-18T05:23:38 -07:00",
+    "MA_GIAM_GIA": "SALE3817"
+  },
+  {
+    "key1": 13,
+    "key2": 94,
+    "MA_SAN_PHAM": "61a73cbb6601f10e5c6a4a84",
+    "TEN_SAN_PHAM": "NOI COM DIEN7138",
+    "GIA_SAN_PHAM": "$2,431.34",
+    "NGAY_TAO": "2020-09-12T09:04:15 -07:00",
+    "NGAY_CHINH_SUA": "2020-04-26T07:58:43 -07:00",
+    "MA_GIAM_GIA": "SALE9235"
+  },
+  {
+    "key1": 29,
+    "key2": 51,
+    "MA_SAN_PHAM": "61a73cbb2b7e7a4da05484de",
+    "TEN_SAN_PHAM": "NOI COM DIEN4014",
+    "GIA_SAN_PHAM": "$3,907.51",
+    "NGAY_TAO": "2020-10-18T05:58:36 -07:00",
+    "NGAY_CHINH_SUA": "2021-05-29T09:08:16 -07:00",
+    "MA_GIAM_GIA": "SALE6213"
+  },
+  {
+    "key1": 14,
+    "key2": 82,
+    "MA_SAN_PHAM": "61a73cbbc9732e6281423896",
+    "TEN_SAN_PHAM": "NOI COM DIEN9823",
+    "GIA_SAN_PHAM": "$1,883.98",
+    "NGAY_TAO": "2020-02-08T04:08:33 -07:00",
+    "NGAY_CHINH_SUA": "2020-07-31T09:27:45 -07:00",
+    "MA_GIAM_GIA": "SALE6403"
+  },
+  {
+    "key1": 32,
+    "key2": 90,
+    "MA_SAN_PHAM": "61a73cbbd3acea4fb92bc330",
+    "TEN_SAN_PHAM": "NOI COM DIEN932",
+    "GIA_SAN_PHAM": "$1,611.29",
+    "NGAY_TAO": "2021-07-13T06:28:35 -07:00",
+    "NGAY_CHINH_SUA": "2021-01-07T09:49:47 -07:00",
+    "MA_GIAM_GIA": "SALE9877"
+  },
+  {
+    "key1": 37,
+    "key2": 75,
+    "MA_SAN_PHAM": "61a73cbb97d05cdc04b46101",
+    "TEN_SAN_PHAM": "NOI COM DIEN3877",
+    "GIA_SAN_PHAM": "$1,532.54",
+    "NGAY_TAO": "2020-05-30T10:06:19 -07:00",
+    "NGAY_CHINH_SUA": "2021-03-05T04:50:53 -07:00",
+    "MA_GIAM_GIA": "SALE2128"
+  },
+  {
+    "key1": 16,
+    "key2": 50,
+    "MA_SAN_PHAM": "61a73cbbb827565bb0ec48b4",
+    "TEN_SAN_PHAM": "NOI COM DIEN7455",
+    "GIA_SAN_PHAM": "$3,612.90",
+    "NGAY_TAO": "2021-04-29T02:13:36 -07:00",
+    "NGAY_CHINH_SUA": "2021-10-22T08:16:16 -07:00",
+    "MA_GIAM_GIA": "SALE6329"
+  },
+  {
+    "key1": 45,
+    "key2": 83,
+    "MA_SAN_PHAM": "61a73cbb556eac0eb4c02151",
+    "TEN_SAN_PHAM": "NOI COM DIEN1805",
+    "GIA_SAN_PHAM": "$2,947.63",
+    "NGAY_TAO": "2021-06-13T05:16:41 -07:00",
+    "NGAY_CHINH_SUA": "2020-01-09T08:57:02 -07:00",
+    "MA_GIAM_GIA": "SALE1475"
+  },
+  {
+    "key1": 30,
+    "key2": 83,
+    "MA_SAN_PHAM": "61a73cbb78ab94220e64ac20",
+    "TEN_SAN_PHAM": "NOI COM DIEN3637",
+    "GIA_SAN_PHAM": "$1,701.72",
+    "NGAY_TAO": "2021-06-15T03:31:12 -07:00",
+    "NGAY_CHINH_SUA": "2021-02-23T09:42:44 -07:00",
+    "MA_GIAM_GIA": "SALE8889"
+  },
+  {
+    "key1": 28,
+    "key2": 86,
+    "MA_SAN_PHAM": "61a73cbb8436f0e2ff8449d8",
+    "TEN_SAN_PHAM": "NOI COM DIEN702",
+    "GIA_SAN_PHAM": "$2,970.24",
+    "NGAY_TAO": "2020-05-14T10:50:26 -07:00",
+    "NGAY_CHINH_SUA": "2021-03-29T12:28:39 -07:00",
+    "MA_GIAM_GIA": "SALE4796"
+  },
+  {
+    "key1": 45,
+    "key2": 64,
+    "MA_SAN_PHAM": "61a73cbbd4ce4dd6d51cc111",
+    "TEN_SAN_PHAM": "NOI COM DIEN7761",
+    "GIA_SAN_PHAM": "$2,375.63",
+    "NGAY_TAO": "2020-02-06T09:32:09 -07:00",
+    "NGAY_CHINH_SUA": "2020-01-07T07:01:16 -07:00",
+    "MA_GIAM_GIA": "SALE2950"
+  },
+  {
+    "key1": 31,
+    "key2": 74,
+    "MA_SAN_PHAM": "61a73cbbcf5c080fbcc489c3",
+    "TEN_SAN_PHAM": "NOI COM DIEN6933",
+    "GIA_SAN_PHAM": "$1,681.24",
+    "NGAY_TAO": "2021-06-18T11:06:29 -07:00",
+    "NGAY_CHINH_SUA": "2021-03-18T09:28:21 -07:00",
+    "MA_GIAM_GIA": "SALE6998"
+  },
+  {
+    "key1": 35,
+    "key2": 65,
+    "MA_SAN_PHAM": "61a73cbb5568806e97ccb7b0",
+    "TEN_SAN_PHAM": "NOI COM DIEN3535",
+    "GIA_SAN_PHAM": "$1,337.11",
+    "NGAY_TAO": "2021-11-02T08:51:39 -07:00",
+    "NGAY_CHINH_SUA": "2021-11-25T08:39:43 -07:00",
+    "MA_GIAM_GIA": "SALE5023"
+  },
+  {
+    "key1": 24,
+    "key2": 62,
+    "MA_SAN_PHAM": "61a73cbbe899aca006f1156e",
+    "TEN_SAN_PHAM": "NOI COM DIEN8693",
+    "GIA_SAN_PHAM": "$1,683.74",
+    "NGAY_TAO": "2020-09-10T02:35:05 -07:00",
+    "NGAY_CHINH_SUA": "2020-12-26T02:14:50 -07:00",
+    "MA_GIAM_GIA": "SALE8925"
+  },
+  {
+    "key1": 32,
+    "key2": 61,
+    "MA_SAN_PHAM": "61a73cbba9ba720de7a35140",
+    "TEN_SAN_PHAM": "NOI COM DIEN1622",
+    "GIA_SAN_PHAM": "$3,903.90",
+    "NGAY_TAO": "2020-08-11T02:31:05 -07:00",
+    "NGAY_CHINH_SUA": "2020-08-11T01:13:40 -07:00",
+    "MA_GIAM_GIA": "SALE3787"
+  },
+  {
+    "key1": 46,
+    "key2": 69,
+    "MA_SAN_PHAM": "61a73cbb96df5e08edb367a7",
+    "TEN_SAN_PHAM": "NOI COM DIEN9372",
+    "GIA_SAN_PHAM": "$3,271.16",
+    "NGAY_TAO": "2020-07-01T09:34:31 -07:00",
+    "NGAY_CHINH_SUA": "2021-04-28T02:34:07 -07:00",
+    "MA_GIAM_GIA": "SALE8839"
+  },
+  {
+    "key1": 40,
+    "key2": 99,
+    "MA_SAN_PHAM": "61a73cbb447e014cf473937c",
+    "TEN_SAN_PHAM": "NOI COM DIEN5232",
+    "GIA_SAN_PHAM": "$1,817.48",
+    "NGAY_TAO": "2021-11-28T10:17:34 -07:00",
+    "NGAY_CHINH_SUA": "2021-08-23T06:16:17 -07:00",
+    "MA_GIAM_GIA": "SALE7528"
+  },
+  {
+    "key1": 48,
+    "key2": 73,
+    "MA_SAN_PHAM": "61a73cbb239e6e06a282f1ab",
+    "TEN_SAN_PHAM": "NOI COM DIEN8079",
+    "GIA_SAN_PHAM": "$3,551.05",
+    "NGAY_TAO": "2020-10-18T05:27:45 -07:00",
+    "NGAY_CHINH_SUA": "2020-10-22T10:35:02 -07:00",
+    "MA_GIAM_GIA": "SALE1015"
+  },
+  {
+    "key1": 27,
+    "key2": 98,
+    "MA_SAN_PHAM": "61a73cbb5a45681b95026b29",
+    "TEN_SAN_PHAM": "NOI COM DIEN7979",
+    "GIA_SAN_PHAM": "$2,887.27",
+    "NGAY_TAO": "2021-01-26T07:06:44 -07:00",
+    "NGAY_CHINH_SUA": "2021-05-27T08:38:17 -07:00",
+    "MA_GIAM_GIA": "SALE4897"
+  },
+  {
+    "key1": 39,
+    "key2": 66,
+    "MA_SAN_PHAM": "61a73cbbb5d3aa66f4f1a82d",
+    "TEN_SAN_PHAM": "NOI COM DIEN8615",
+    "GIA_SAN_PHAM": "$2,168.49",
+    "NGAY_TAO": "2021-11-22T07:52:24 -07:00",
+    "NGAY_CHINH_SUA": "2021-08-09T09:45:14 -07:00",
+    "MA_GIAM_GIA": "SALE5596"
+  },
+  {
+    "key1": 47,
+    "key2": 68,
+    "MA_SAN_PHAM": "61a73cbb9af24e2b1e2f7f29",
+    "TEN_SAN_PHAM": "NOI COM DIEN7862",
+    "GIA_SAN_PHAM": "$1,524.35",
+    "NGAY_TAO": "2020-06-11T05:39:57 -07:00",
+    "NGAY_CHINH_SUA": "2021-11-28T07:39:00 -07:00",
+    "MA_GIAM_GIA": "SALE3943"
+  },
+  {
+    "key1": 21,
+    "key2": 72,
+    "MA_SAN_PHAM": "61a73cbb4843cfbe872c423e",
+    "TEN_SAN_PHAM": "NOI COM DIEN4791",
+    "GIA_SAN_PHAM": "$1,890.95",
+    "NGAY_TAO": "2020-05-26T10:44:57 -07:00",
+    "NGAY_CHINH_SUA": "2020-02-08T09:13:32 -07:00",
+    "MA_GIAM_GIA": "SALE8992"
+  },
+  {
+    "key1": 24,
+    "key2": 80,
+    "MA_SAN_PHAM": "61a73cbb90f3b191a30aaf4a",
+    "TEN_SAN_PHAM": "NOI COM DIEN9511",
+    "GIA_SAN_PHAM": "$3,534.50",
+    "NGAY_TAO": "2020-01-06T05:28:53 -07:00",
+    "NGAY_CHINH_SUA": "2021-08-25T07:46:39 -07:00",
+    "MA_GIAM_GIA": "SALE9032"
+  },
+  {
+    "key1": 33,
+    "key2": 56,
+    "MA_SAN_PHAM": "61a73cbb0a8a500179704c5c",
+    "TEN_SAN_PHAM": "NOI COM DIEN4219",
+    "GIA_SAN_PHAM": "$3,261.12",
+    "NGAY_TAO": "2020-06-18T05:45:33 -07:00",
+    "NGAY_CHINH_SUA": "2020-02-15T05:32:24 -07:00",
+    "MA_GIAM_GIA": "SALE2301"
+  },
+  {
+    "key1": 47,
+    "key2": 66,
+    "MA_SAN_PHAM": "61a73cbb21c06be9cfca6b81",
+    "TEN_SAN_PHAM": "NOI COM DIEN9698",
+    "GIA_SAN_PHAM": "$1,772.81",
+    "NGAY_TAO": "2021-08-08T03:37:42 -07:00",
+    "NGAY_CHINH_SUA": "2021-09-30T09:09:28 -07:00",
+    "MA_GIAM_GIA": "SALE4797"
+  },
+  {
+    "key1": 43,
+    "key2": 94,
+    "MA_SAN_PHAM": "61a73cbb07c121a6caac55ba",
+    "TEN_SAN_PHAM": "NOI COM DIEN6017",
+    "GIA_SAN_PHAM": "$3,358.67",
+    "NGAY_TAO": "2021-07-17T04:21:35 -07:00",
+    "NGAY_CHINH_SUA": "2020-11-16T05:09:44 -07:00",
+    "MA_GIAM_GIA": "SALE3680"
+  },
+  {
+    "key1": 24,
+    "key2": 83,
+    "MA_SAN_PHAM": "61a73cbb9852ca7e52d09173",
+    "TEN_SAN_PHAM": "NOI COM DIEN4131",
+    "GIA_SAN_PHAM": "$3,998.04",
+    "NGAY_TAO": "2020-04-03T08:15:58 -07:00",
+    "NGAY_CHINH_SUA": "2020-01-22T10:10:56 -07:00",
+    "MA_GIAM_GIA": "SALE8434"
+  },
+  {
+    "key1": 43,
+    "key2": 97,
+    "MA_SAN_PHAM": "61a73cbb1df4c3002a83d8d5",
+    "TEN_SAN_PHAM": "NOI COM DIEN1356",
+    "GIA_SAN_PHAM": "$2,933.57",
+    "NGAY_TAO": "2020-02-16T10:51:33 -07:00",
+    "NGAY_CHINH_SUA": "2020-04-29T03:37:00 -07:00",
+    "MA_GIAM_GIA": "SALE8288"
+  },
+  {
+    "key1": 22,
+    "key2": 89,
+    "MA_SAN_PHAM": "61a73cbbabe78d5dcdaf0798",
+    "TEN_SAN_PHAM": "NOI COM DIEN2532",
+    "GIA_SAN_PHAM": "$3,477.62",
+    "NGAY_TAO": "2021-04-18T07:30:05 -07:00",
+    "NGAY_CHINH_SUA": "2020-06-17T08:29:57 -07:00",
+    "MA_GIAM_GIA": "SALE4476"
+  },
+  {
+    "key1": 10,
+    "key2": 84,
+    "MA_SAN_PHAM": "61a73cbba8b6175a54b4e5c0",
+    "TEN_SAN_PHAM": "NOI COM DIEN2858",
+    "GIA_SAN_PHAM": "$2,870.05",
+    "NGAY_TAO": "2020-03-29T05:17:00 -07:00",
+    "NGAY_CHINH_SUA": "2020-09-07T01:38:17 -07:00",
+    "MA_GIAM_GIA": "SALE3853"
+  },
+  {
+    "key1": 36,
+    "key2": 63,
+    "MA_SAN_PHAM": "61a73cbb98665ccae8d8aabe",
+    "TEN_SAN_PHAM": "NOI COM DIEN9252",
+    "GIA_SAN_PHAM": "$1,976.37",
+    "NGAY_TAO": "2020-09-08T10:30:00 -07:00",
+    "NGAY_CHINH_SUA": "2020-02-15T12:54:56 -07:00",
+    "MA_GIAM_GIA": "SALE6486"
+  },
+  {
+    "key1": 13,
+    "key2": 96,
+    "MA_SAN_PHAM": "61a73cbbfb43e70aa399d8d8",
+    "TEN_SAN_PHAM": "NOI COM DIEN9324",
+    "GIA_SAN_PHAM": "$3,561.59",
+    "NGAY_TAO": "2020-06-14T05:58:33 -07:00",
+    "NGAY_CHINH_SUA": "2020-04-02T02:17:26 -07:00",
+    "MA_GIAM_GIA": "SALE9403"
+  },
+  {
+    "key1": 36,
+    "key2": 87,
+    "MA_SAN_PHAM": "61a73cbb1a315c12e39f6d6f",
+    "TEN_SAN_PHAM": "NOI COM DIEN3275",
+    "GIA_SAN_PHAM": "$3,596.61",
+    "NGAY_TAO": "2020-02-06T03:45:28 -07:00",
+    "NGAY_CHINH_SUA": "2020-10-15T03:33:49 -07:00",
+    "MA_GIAM_GIA": "SALE6630"
+  },
+  {
+    "key1": 47,
+    "key2": 90,
+    "MA_SAN_PHAM": "61a73cbbe155d27284d9faf0",
+    "TEN_SAN_PHAM": "NOI COM DIEN550",
+    "GIA_SAN_PHAM": "$2,105.03",
+    "NGAY_TAO": "2020-04-30T09:50:12 -07:00",
+    "NGAY_CHINH_SUA": "2021-05-15T08:01:08 -07:00",
+    "MA_GIAM_GIA": "SALE7378"
+  },
+  {
+    "key1": 34,
+    "key2": 99,
+    "MA_SAN_PHAM": "61a73cbb3bd17ac637265d27",
+    "TEN_SAN_PHAM": "NOI COM DIEN2654",
+    "GIA_SAN_PHAM": "$2,049.10",
+    "NGAY_TAO": "2021-07-07T07:17:03 -07:00",
+    "NGAY_CHINH_SUA": "2021-07-30T08:37:35 -07:00",
+    "MA_GIAM_GIA": "SALE9406"
+  }
+]
