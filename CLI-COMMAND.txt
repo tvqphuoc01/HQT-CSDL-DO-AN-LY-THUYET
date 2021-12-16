@@ -1,0 +1,2 @@
+//Add data bang file JSON
+aws dynamodb batch-write-item --request-items file://TENFILE
