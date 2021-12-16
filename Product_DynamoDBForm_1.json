@@ -1,0 +1,604 @@
+{
+    "Product": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "ProductID": {
+                        "N": "116"
+                      },
+                      "Product Name": {
+                        "S": "Beef - Cow Feet Split"
+                      },
+                      "Description": {
+                        "S": "Delicious"
+                      },
+                      "Price": {
+                        "S": "$724.13"
+                      },
+                      "VoucherID": {
+                        "N": "12"
+                      },
+                      "Quantity": {
+                        "N": "78"
+                      }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ProductID": {
+                        "N": "19"
+                      },
+                      "Product Name": {
+                        "S": "Pepsi, 355 Ml"
+                      },
+                      "Description": {
+                        "S": "Perfect"
+                      },
+                      "Price": {
+                        "S": "$817.02"
+                      },
+                      "VoucherID": {
+                        "N": "13"
+                      },
+                      "Quantity": {
+                        "N": "716"
+                      }
+                    }
+                }
+            },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ProductID": {
+                        "N": "143"
+                      },
+                      "Product Name": {
+                        "S": "Puree - Passion Fruit"
+                      },
+                      "Description": {
+                        "S": "Best seller"
+                      },
+                      "Price": {
+                        "S": "$900.16"
+                      },
+                      "VoucherID": {
+                        "N": "124"
+                      },
+                      "Quantity": {
+                        "N": "71"
+                      }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ProductID": {
+                        "N": "88"
+                      },
+                      "Product Name": {
+                        "S": "Pork - Backs - Boneless"
+                      },
+                      "Description": {
+                        "S": "Delicious"
+                      },
+                      "Price": {
+                        "S": "$455.55"
+                      },
+                      "VoucherID": {
+                        "N": "95"
+                      },
+                      "Quantity": {
+                        "N": "8"
+                      }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ProductID": {
+                        "N": "49"
+                      },
+                      "Product Name": {
+                        "S": "Wine - Riesling Alsace Ac 2001"
+                      },
+                      "Description": {
+                        "S": "Delicious"
+                      },
+                      "Price": {
+                        "S": "$69.28"
+                      },
+                      "VoucherID": {
+                        "N": "83"
+                      },
+                      "Quantity": {
+                        "N": "803"
+                      }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ProductID": {
+                        "N": "109"
+                      },
+                      "Product Name": {
+                        "S": "Compound - Passion Fruit"
+                      },
+                      "Description": {
+                        "S": "Perfect"
+                      },
+                      "Price": {
+                        "S": "$974.80"
+                      },
+                      "VoucherID": {
+                        "N": "127"
+                      },
+                      "Quantity": {
+                        "N": "120"
+                      }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ProductID": {
+                        "N": "7"
+                      },
+                      "Product Name": {
+                        "S": "Lumpfish Black"
+                      },
+                      "Description": {
+                        "S": "Delicious"
+                      },
+                      "Price": {
+                        "S": "$303.54"
+                      },
+                      "VoucherID": {
+                        "N": "22"
+                      },
+                      "Quantity": {
+                        "N": "294"
+                      }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ProductID": {
+                        "N": "51"
+                      },
+                      "Product Name": {
+                        "S": "Lidsoupcont Rp12dn"
+                      },
+                      "Description": {
+                        "S": "Delicious"
+                      },
+                      "Price": {
+                        "S": "$996.86"
+                      },
+                      "VoucherID": {
+                        "N": "136"
+                      },
+                      "Quantity": {
+                        "N": "934"
+                      }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ProductID": {
+                        "N": "16"
+                      },
+                      "Product Name": {
+                        "S": "Bread - Flat Bread"
+                      },
+                      "Description": {
+                        "S": "Perfect"
+                      },
+                      "Price": {
+                        "S": "$651.68"
+                      },
+                      "VoucherID": {
+                        "N": "111"
+                      },
+                      "Quantity": {
+                        "N": "960"
+                      }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ProductID": {
+                        "N": "23"
+                      },
+                      "Product Name": {
+                        "S": "Bay Leaf Ground"
+                      },
+                      "Description": {
+                        "S": "Good"
+                      },
+                      "Price": {
+                        "S": "$807.06"
+                      },
+                      "VoucherID": {
+                        "N": "144"
+                      },
+                      "Quantity": {
+                        "N": "678"
+                      }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ProductID": {
+                        "N": "112"
+                      },
+                      "Product Name": {
+                        "S": "Yogurt - Strawberry, 175 Gr"
+                      },
+                      "Description": {
+                        "S": "Delicious"
+                      },
+                      "Price": {
+                        "S": "$542.50"
+                      },
+                      "VoucherID": {
+                        "N": "99"
+                      },
+                      "Quantity": {
+                        "N": "440"
+                      }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ProductID": {
+                        "N": "8"
+                      },
+                      "Product Name": {
+                        "S": "Bread - Pumpernickle, Rounds"
+                      },
+                      "Description": {
+                        "S": "OK"
+                      },
+                      "Price": {
+                        "S": "$470.90"
+                      },
+                      "VoucherID": {
+                        "N": "146"
+                      },
+                      "Quantity": {
+                        "N": "596"
+                      }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ProductID": {
+                        "N": "27"
+                      },
+                      "Product Name": {
+                        "S": "Huck White Towels"
+                      },
+                      "Description": {
+                        "S": "Delicious"
+                      },
+                      "Price": {
+                        "S": "$783.55"
+                      },
+                      "VoucherID": {
+                        "N": "67"
+                      },
+                      "Quantity": {
+                        "N": "4"
+                      }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ProductID": {
+                        "N": "54"
+                      },
+                      "Product Name": {
+                        "S": "Icecream Cone - Areo Chocolate"
+                      },
+                      "Description": {
+                        "S": "Best seller"
+                      },
+                      "Price": {
+                        "S": "$665.22"
+                      },
+                      "VoucherID": {
+                        "N": "63"
+                      },
+                      "Quantity": {
+                        "N": "391"
+                      }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ProductID": {
+                        "N": "69"
+                      },
+                      "Product Name": {
+                        "S": "Sour Puss Raspberry"
+                      },
+                      "Description": {
+                        "S": "Delicious"
+                      },
+                      "Price": {
+                        "S": "$85.70"
+                      },
+                      "VoucherID": {
+                        "N": "53"
+                      },
+                      "Quantity": {
+                        "N": "666"
+                      }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ProductID": {
+                        "N": "9"
+                      },
+                      "Product Name": {
+                        "S": "Icecream - Dstk Cml And Fdg"
+                      },
+                      "Description": {
+                        "S": "Delicious"
+                      },
+                      "Price": {
+                        "S": "$475.75"
+                      },
+                      "VoucherID": {
+                        "N": "126"
+                      },
+                      "Quantity": {
+                        "N": "412"
+                      }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ProductID": {
+                        "N": "11"
+                      },
+                      "Product Name": {
+                        "S": "Dawn Professionl Pot And Pan"
+                      },
+                      "Description": {
+                        "S": "Good"
+                      },
+                      "Price": {
+                        "S": "$151.95"
+                      },
+                      "VoucherID": {
+                        "N": "69"
+                      },
+                      "Quantity": {
+                        "N": "740"
+                      }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ProductID": {
+                        "N": "12"
+                      },
+                      "Product Name": {
+                        "S": "Scallops - 20/30"
+                      },
+                      "Description": {
+                        "S": "Perfect"
+                      },
+                      "Price": {
+                        "S": "$822.37"
+                      },
+                      "VoucherID": {
+                        "N": "55"
+                      },
+                      "Quantity": {
+                        "N": "217"
+                      }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ProductID": {
+                        "N": "13"
+                      },
+                      "Product Name": {
+                        "S": "Venison - Liver"
+                      },
+                      "Description": {
+                        "S": "Perfect"
+                      },
+                      "Price": {
+                        "S": "$74.70"
+                      },
+                      "VoucherID": {
+                        "N": "50"
+                      },
+                      "Quantity": {
+                        "N": "1000"
+                      }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ProductID": {
+                        "N": "14"
+                      },
+                      "Product Name": {
+                        "S": "Pasta - Lasagne, Fresh"
+                      },
+                      "Description": {
+                        "S": "Best seller"
+                      },
+                      "Price": {
+                        "S": "$470.83"
+                      },
+                      "VoucherID": {
+                        "N": "43"
+                      },
+                      "Quantity": {
+                        "N": "654"
+                      }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ProductID": {
+                        "N": "22"
+                      },
+                      "Product Name": {
+                        "S": "Veal - Tenderloin, Untrimmed"
+                      },
+                      "Description": {
+                        "S": "Perfect"
+                      },
+                      "Price": {
+                        "S": "$601.96"
+                      },
+                      "VoucherID": {
+                        "N": "110"
+                      },
+                      "Quantity": {
+                        "N": "174"
+                      }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ProductID": {
+                        "N": "21"
+                      },
+                      "Product Name": {
+                        "S": "Capon - Breast, Double, Wing On"
+                      },
+                      "Description": {
+                        "S": "Delicious"
+                      },
+                      "Price": {
+                        "S": "$712.97"
+                      },
+                      "VoucherID": {
+                        "N": "148"
+                      },
+                      "Quantity": {
+                        "N": "463"
+                      }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ProductID": {
+                        "N": "17"
+                      },
+                      "Product Name": {
+                        "S": "Juice - Orange"
+                      },
+                      "Description": {
+                        "S": "Delicious"
+                      },
+                      "Price": {
+                        "S": "$557.04"
+                      },
+                      "VoucherID": {
+                        "N": "91"
+                      },
+                      "Quantity": {
+                        "N": "593"
+                      }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ProductID": {
+                        "N": "18"
+                      },
+                      "Product Name": {
+                        "S": "Veal Inside - Provimi"
+                      },
+                      "Description": {
+                        "S": "OK"
+                      },
+                      "Price": {
+                        "S": "$725.18"
+                      },
+                      "VoucherID": {
+                        "N": "96"
+                      },
+                      "Quantity": {
+                        "N": "260"
+                      }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ProductID": {
+                        "N": "20"
+                      },
+                      "Product Name": {
+                        "S": "Chilli Paste, Sambal Oelek"
+                      },
+                      "Description": {
+                        "S": "Delicious"
+                      },
+                      "Price": {
+                        "S": "$299.88"
+                      },
+                      "VoucherID": {
+                        "N": "90"
+                      },
+                      "Quantity": {
+                        "N": "196"
+                      }
+                }
+            }
+        }
+    ]
+}

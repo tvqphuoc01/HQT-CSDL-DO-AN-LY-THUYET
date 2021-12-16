@@ -1,0 +1,604 @@
+{
+    "Product": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "ProductID": {
+                        "N": "87"
+                      },
+                      "Product Name": {
+                        "S": "Soup - Cream Of Broccoli, Dry"
+                      },
+                      "Description": {
+                        "S": "Perfect"
+                      },
+                      "Price": {
+                        "S": "$89.73"
+                      },
+                      "VoucherID": {
+                        "N": "113"
+                      },
+                      "Quantity": {
+                        "N": "778"
+                      }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ProductID": {
+                        "N": "95"
+                      },
+                      "Product Name": {
+                        "S": "Appetizer - Asian Shrimp Roll"
+                      },
+                      "Description": {
+                        "S": "Best seller"
+                      },
+                      "Price": {
+                        "S": "$512.01"
+                      },
+                      "VoucherID": {
+                        "N": "84"
+                      },
+                      "Quantity": {
+                        "N": "546"
+                      }
+                    }
+                }
+            },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ProductID": {
+                        "N": "76"
+                      },
+                      "Product Name": {
+                        "S": "Wine - Guy Sage Touraine"
+                      },
+                      "Description": {
+                        "S": "Delicious"
+                      },
+                      "Price": {
+                        "S": "$689.44"
+                      },
+                      "VoucherID": {
+                        "N": "86"
+                      },
+                      "Quantity": {
+                        "N": "626"
+                      }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ProductID": {
+                        "N": "134"
+                      },
+                      "Product Name": {
+                        "S": "Pectin"
+                      },
+                      "Description": {
+                        "S": "Delicious"
+                      },
+                      "Price": {
+                        "S": "$927.20"
+                      },
+                      "VoucherID": {
+                        "N": "2"
+                      },
+                      "Quantity": {
+                        "N": "132"
+                      }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ProductID": {
+                        "N": "25"
+                      },
+                      "Product Name": {
+                        "S": "Nantucket Apple Juice"
+                      },
+                      "Description": {
+                        "S": "Delicious"
+                      },
+                      "Price": {
+                        "S": "$903.96"
+                      },
+                      "VoucherID": {
+                        "N": "54"
+                      },
+                      "Quantity": {
+                        "N": "739"
+                      }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ProductID": {
+                        "N": "67"
+                      },
+                      "Product Name": {
+                        "S": "Muffin - Carrot Individual Wrap"
+                      },
+                      "Description": {
+                        "S": "Delicious"
+                      },
+                      "Price": {
+                        "S": "$421.26"
+                      },
+                      "VoucherID": {
+                        "N": "65"
+                      },
+                      "Quantity": {
+                        "N": "266"
+                      }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ProductID": {
+                        "N": "44"
+                      },
+                      "Product Name": {
+                        "S": "Juice - Cranberry 284ml"
+                      },
+                      "Description": {
+                        "S": "Perfect"
+                      },
+                      "Price": {
+                        "S": "$346.31"
+                      },
+                      "VoucherID": {
+                        "N": "8"
+                      },
+                      "Quantity": {
+                        "N": "203"
+                      }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ProductID": {
+                        "N": "46"
+                      },
+                      "Product Name": {
+                        "S": "Clam Nectar"
+                      },
+                      "Description": {
+                        "S": "Delicious"
+                      },
+                      "Price": {
+                        "S": "$305.12"
+                      },
+                      "VoucherID": {
+                        "N": "47"
+                      },
+                      "Quantity": {
+                        "N": "644"
+                      }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ProductID": {
+                        "N": "93"
+                      },
+                      "Product Name": {
+                        "S": "Beans - Yellow"
+                      },
+                      "Description": {
+                        "S": "OK"
+                      },
+                      "Price": {
+                        "S": "$846.57"
+                      },
+                      "VoucherID": {
+                        "N": "91"
+                      },
+                      "Quantity": {
+                        "N": "499"
+                      }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ProductID": {
+                        "N": "26"
+                      },
+                      "Product Name": {
+                        "S": "Bread - White, Unsliced"
+                      },
+                      "Description": {
+                        "S": "Delicious"
+                      },
+                      "Price": {
+                        "S": "$448.06"
+                      },
+                      "VoucherID": {
+                        "N": "103"
+                      },
+                      "Quantity": {
+                        "N": "866"
+                      }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ProductID": {
+                        "N": "73"
+                      },
+                      "Product Name": {
+                        "S": "Soup - Campbells Chili"
+                      },
+                      "Description": {
+                        "S": "Delicious"
+                      },
+                      "Price": {
+                        "S": "$532.77"
+                      },
+                      "VoucherID": {
+                        "N": "52"
+                      },
+                      "Quantity": {
+                        "N": "510"
+                      }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ProductID": {
+                        "N": "28"
+                      },
+                      "Product Name": {
+                        "S": "Table Cloth 81x81 Colour"
+                      },
+                      "Description": {
+                        "S": "Perfect"
+                      },
+                      "Price": {
+                        "S": "$50.92"
+                      },
+                      "VoucherID": {
+                        "N": "72"
+                      },
+                      "Quantity": {
+                        "N": "349"
+                      }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ProductID": {
+                        "N": "66"
+                      },
+                      "Product Name": {
+                        "S": "Carbonated Water - White Grape"
+                      },
+                      "Description": {
+                        "S": "Delicious"
+                      },
+                      "Price": {
+                        "S": "$160.88"
+                      },
+                      "VoucherID": {
+                        "N": "31"
+                      },
+                      "Quantity": {
+                        "N": "167"
+                      }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ProductID": {
+                        "N": "34"
+                      },
+                      "Product Name": {
+                        "S": "Chicken - Thigh, Bone In"
+                      },
+                      "Description": {
+                        "S": "Delicious"
+                      },
+                      "Price": {
+                        "S": "$267.52"
+                      },
+                      "VoucherID": {
+                        "N": "68"
+                      },
+                      "Quantity": {
+                        "N": "912"
+                      }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ProductID": {
+                        "N": "29"
+                      },
+                      "Product Name": {
+                        "S": "Bread - Onion Focaccia"
+                      },
+                      "Description": {
+                        "S": "Delicious"
+                      },
+                      "Price": {
+                        "S": "$529.22"
+                      },
+                      "VoucherID": {
+                        "N": "110"
+                      },
+                      "Quantity": {
+                        "N": "210"
+                      }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ProductID": {
+                        "N": "31"
+                      },
+                      "Product Name": {
+                        "S": "Cheese - Parmesan Grated"
+                      },
+                      "Description": {
+                        "S": "Delicious"
+                      },
+                      "Price": {
+                        "S": "$434.44"
+                      },
+                      "VoucherID": {
+                        "N": "113"
+                      },
+                      "Quantity": {
+                        "N": "691"
+                      }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ProductID": {
+                        "N": "146"
+                      },
+                      "Product Name": {
+                        "S": "Laundry - Bag Cloth"
+                      },
+                      "Description": {
+                        "S": "Delicious"
+                      },
+                      "Price": {
+                        "S": "$909.13"
+                      },
+                      "VoucherID": {
+                        "N": "99"
+                      },
+                      "Quantity": {
+                        "N": "373"
+                      }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ProductID": {
+                        "N": "128"
+                      },
+                      "Product Name": {
+                        "S": "Sage - Rubbed"
+                      },
+                      "Description": {
+                        "S": "Delicious"
+                      },
+                      "Price": {
+                        "S": "$748.02"
+                      },
+                      "VoucherID": {
+                        "N": "6"
+                      },
+                      "Quantity": {
+                        "N": "530"
+                      }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ProductID": {
+                        "N": "132"
+                      },
+                      "Product Name": {
+                        "S": "Stock - Fish"
+                      },
+                      "Description": {
+                        "S": "Delicious"
+                      },
+                      "Price": {
+                        "S": "$511.40"
+                      },
+                      "VoucherID": {
+                        "N": "4"
+                      },
+                      "Quantity": {
+                        "N": "594"
+                      }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ProductID": {
+                        "N": "121"
+                      },
+                      "Product Name": {
+                        "S": "Mountain Dew"
+                      },
+                      "Description": {
+                        "S": "Perfect"
+                      },
+                      "Price": {
+                        "S": "$128.90"
+                      },
+                      "VoucherID": {
+                        "N": "135"
+                      },
+                      "Quantity": {
+                        "N": "589"
+                      }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ProductID": {
+                        "N": "33"
+                      },
+                      "Product Name": {
+                        "S": "Pepper - Chili Powder"
+                      },
+                      "Description": {
+                        "S": "Good"
+                      },
+                      "Price": {
+                        "S": "$281.93"
+                      },
+                      "VoucherID": {
+                        "N": "139"
+                      },
+                      "Quantity": {
+                        "N": "400"
+                      }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ProductID": {
+                        "N": "136"
+                      },
+                      "Product Name": {
+                        "S": "Vinegar - Tarragon"
+                      },
+                      "Description": {
+                        "S": "Delicious"
+                      },
+                      "Price": {
+                        "S": "$396.87"
+                      },
+                      "VoucherID": {
+                        "N": "150"
+                      },
+                      "Quantity": {
+                        "N": "693"
+                      }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ProductID": {
+                        "N": "144"
+                      },
+                      "Product Name": {
+                        "S": "Chocolate - Semi Sweet, Calets"
+                      },
+                      "Description": {
+                        "S": "Best seller"
+                      },
+                      "Price": {
+                        "S": "$221.58"
+                      },
+                      "VoucherID": {
+                        "N": "41"
+                      },
+                      "Quantity": {
+                        "N": "339"
+                      }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ProductID": {
+                        "N": "84"
+                      },
+                      "Product Name": {
+                        "S": "Campari"
+                      },
+                      "Description": {
+                        "S": "Delicious"
+                      },
+                      "Price": {
+                        "S": "$213.14"
+                      },
+                      "VoucherID": {
+                        "N": "130"
+                      },
+                      "Quantity": {
+                        "N": "757"
+                      }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ProductID": {
+                        "N": "32"
+                      },
+                      "Product Name": {
+                        "S": "Cookies - Englishbay Chochip"
+                      },
+                      "Description": {
+                        "S": "Delicious"
+                      },
+                      "Price": {
+                        "S": "$154.45"
+                      },
+                      "VoucherID": {
+                        "N": "62"
+                      },
+                      "Quantity": {
+                        "N": "299"
+                      }
+                }
+            }
+        }
+    ]
+}
