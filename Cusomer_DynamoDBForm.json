@@ -1,0 +1,321 @@
+{
+  "Customer": [
+    {
+      "PutRequest": {
+          "Item": {
+            "CusID": {
+              "N": "86"
+            },
+            "Name": {
+              "S": "Evy Jacobsen"
+            },
+            "Age": {
+              "N": "53"
+            },
+            "Phone": {
+              "S": "395 674 3328"
+            },
+            "Address": {
+              "S": "33 Cordelia Hill"
+            }
+          }
+      }
+    },
+    {
+      "PutRequest": {
+          "Item": {
+            "CusID": {
+              "N": "87"
+            },
+            "Name": {
+              "S": "Florenza Wraith"
+            },
+            "Age": {
+              "N": "50"
+            },
+            "Phone": {
+              "S": "589 677 3733"
+            },
+            "Address": {
+              "S": "20 Shopko Terrace"
+            }
+          }
+      }
+    },
+    {
+      "PutRequest": {
+          "Item": {
+            "CusID": {
+              "N": "88"
+            },
+            "Name": {
+              "S": "Arlena Maxweell"
+            },
+            "Age": {
+              "N": "28"
+            },
+            "Phone": {
+              "S": "225 737 8574"
+            },
+            "Address": {
+              "S": "90 Lakewood Trail"
+            }
+          }
+      }
+    },
+    {
+      "PutRequest": {
+          "Item": {
+            "CusID": {
+              "N": "89"
+            },
+            "Name": {
+              "S": "Taddeo Stanhope"
+            },
+            "Age": {
+              "N": "28"
+            },
+            "Phone": {
+              "S": "647 471 6562"
+            },
+            "Address": {
+              "S": "283 Forest Trail"
+            }
+          }
+      }
+    },
+    {
+      "PutRequest": {
+          "Item": {
+            "CusID": {
+              "N": "90"
+            },
+            "Name": {
+              "S": "Leeann Eilhermann"
+            },
+            "Age": {
+              "N": "61"
+            },
+            "Phone": {
+              "S": "432 131 6231"
+            },
+            "Address": {
+              "S": "325 Lillian Center"
+            }
+          }
+      }
+    },
+    
+    {
+      "PutRequest": {
+          "Item": {
+            "CusID": {
+              "N": "91"
+            },
+            "Name": {
+              "S": "Linda Gobert"
+            },
+            "Age": {
+              "N": "56"
+            },
+            "Phone": {
+              "S": "100 390 2550"
+            },
+            "Address": {
+              "S": "70 Redwing Drive"
+            }
+          }
+      }
+    },
+    {
+      "PutRequest": {
+          "Item": {
+            "CusID": {
+              "N": "92"
+            },
+            "Name": {
+              "S": "Antonie Dobbings"
+            },
+            "Age": {
+              "N": "22"
+            },
+            "Phone": {
+              "S": "486 461 1306"
+            },
+            "Address": {
+              "S": "1 Heffernan Court"
+            }
+          }
+      }
+    },
+    
+    {
+      "PutRequest": {
+          "Item": {
+            "CusID": {
+              "N": "93"
+            },
+            "Name": {
+              "S": "Delinda Battson"
+            },
+            "Age": {
+              "N": "57"
+            },
+            "Phone": {
+              "S": "696 589 4250"
+            },
+            "Address": {
+              "S": "27759 Shoshone Plaza"
+            }
+          }
+      }
+    },
+    {
+      "PutRequest": {
+          "Item": {
+            "CusID": {
+              "N": "94"
+            },
+            "Name": {
+              "S": "Linet Plenderleith"
+            },
+            "Age": {
+              "N": "51"
+            },
+            "Phone": {
+              "S": "962 636 7236"
+            },
+            "Address": {
+              "S": "5540 Caliangt Alley"
+            }
+          }
+      }
+    },
+    {
+      "PutRequest": {
+          "Item": {
+            "CusID": {
+              "N": "95"
+            },
+            "Name": {
+              "S": "Madlen Petris"
+            },
+            "Age": {
+              "N": "30"
+            },
+            "Phone": {
+              "S": "906 659 4761"
+            },
+            "Address": {
+              "S": "97303 Knutson Trail"
+            }
+          }
+      }
+    },
+    {
+      "PutRequest": {
+          "Item": {
+            "CusID": {
+              "N": "96"
+            },
+            "Name": {
+              "S": "Claudine Turfes"
+            },
+            "Age": {
+              "N": "56"
+            },
+            "Phone": {
+              "S": "672 302 0999"
+            },
+            "Address": {
+              "S": "6 Longview Street"
+            }
+          }
+      }
+    },
+    {
+      "PutRequest": {
+          "Item": {
+            "CusID": {
+              "N": "97"
+            },
+            "Name": {
+              "S": "Daphene Oslar"
+            },
+            "Age": {
+              "N": "20"
+            },
+            "Phone": {
+              "S": "840 146 1825"
+            },
+            "Address": {
+              "S": "4161 Vidon Lane"
+            }
+          }
+      }
+    },
+    {
+      "PutRequest": {
+          "Item": {
+            "CusID": {
+              "N": "98"
+            },
+            "Name": {
+              "S": "Wallace Viney"
+            },
+            "Age": {
+              "N": "19"
+            },
+            "Phone": {
+              "S": "930 131 0035"
+            },
+            "Address": {
+              "S": "6 Troy Road"
+            }
+          }
+      }
+    },
+    {
+      "PutRequest": {
+          "Item": {
+            "CusID": {
+              "N": "99"
+            },
+            "Name": {
+              "S": "Rice Trencher"
+            },
+            "Age": {
+              "N": "48"
+            },
+            "Phone": {
+              "S": "552 866 9294"
+            },
+            "Address": {
+              "S": "2 Almo Plaza"
+            }
+          }
+      }
+    },
+    {
+      "PutRequest": {
+          "Item": {
+            "CusID": {
+              "N": "100"
+            },
+            "Name": {
+              "S": "Alison Gumary"
+            },
+            "Age": {
+              "N": "58"
+            },
+            "Phone": {
+              "S": "223 111 5217"
+            },
+            "Address": {
+              "S": "729 Sutteridge Parkway"
+            }
+          }
+      }
+    }
+  ]
+}
