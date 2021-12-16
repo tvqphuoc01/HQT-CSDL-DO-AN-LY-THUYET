@@ -1,0 +1,752 @@
+[
+  {
+    "VoucherID": 25,
+    "Value": 0.36,
+    "TimesToUse": 6
+  },
+  {
+    "VoucherID": 127,
+    "Value": 0.77,
+    "TimesToUse": 15
+  },
+  {
+    "VoucherID": 79,
+    "Value": 0.92,
+    "TimesToUse": 16
+  },
+  {
+    "VoucherID": 3,
+    "Value": 0.42,
+    "TimesToUse": 19
+  },
+  {
+    "VoucherID": 135,
+    "Value": 0.82,
+    "TimesToUse": 14
+  },
+  {
+    "VoucherID": 120,
+    "Value": 0.13,
+    "TimesToUse": 12
+  },
+  {
+    "VoucherID": 6,
+    "Value": 0.68,
+    "TimesToUse": 5
+  },
+  {
+    "VoucherID": 54,
+    "Value": 0.51,
+    "TimesToUse": 19
+  },
+  {
+    "VoucherID": 49,
+    "Value": 0.07,
+    "TimesToUse": 16
+  },
+  {
+    "VoucherID": 81,
+    "Value": 0.05,
+    "TimesToUse": 12
+  },
+  {
+    "VoucherID": 31,
+    "Value": 0.16,
+    "TimesToUse": 12
+  },
+  {
+    "VoucherID": 72,
+    "Value": 0.04,
+    "TimesToUse": 8
+  },
+  {
+    "VoucherID": 148,
+    "Value": 0.26,
+    "TimesToUse": 15
+  },
+  {
+    "VoucherID": 102,
+    "Value": 0.76,
+    "TimesToUse": 18
+  },
+  {
+    "VoucherID": 76,
+    "Value": 0.36,
+    "TimesToUse": 15
+  },
+  {
+    "VoucherID": 99,
+    "Value": 0.96,
+    "TimesToUse": 3
+  },
+  {
+    "VoucherID": 97,
+    "Value": 0.66,
+    "TimesToUse": 10
+  },
+  {
+    "VoucherID": 71,
+    "Value": 0.95,
+    "TimesToUse": 12
+  },
+  {
+    "VoucherID": 71,
+    "Value": 0.53,
+    "TimesToUse": 11
+  },
+  {
+    "VoucherID": 120,
+    "Value": 0.81,
+    "TimesToUse": 3
+  },
+  {
+    "VoucherID": 140,
+    "Value": 0.51,
+    "TimesToUse": 12
+  },
+  {
+    "VoucherID": 67,
+    "Value": 0.87,
+    "TimesToUse": 17
+  },
+  {
+    "VoucherID": 127,
+    "Value": 0.99,
+    "TimesToUse": 12
+  },
+  {
+    "VoucherID": 27,
+    "Value": 0.21,
+    "TimesToUse": 20
+  },
+  {
+    "VoucherID": 30,
+    "Value": 0.54,
+    "TimesToUse": 20
+  },
+  {
+    "VoucherID": 14,
+    "Value": 0.3,
+    "TimesToUse": 1
+  },
+  {
+    "VoucherID": 70,
+    "Value": 0.12,
+    "TimesToUse": 4
+  },
+  {
+    "VoucherID": 86,
+    "Value": 0.11,
+    "TimesToUse": 15
+  },
+  {
+    "VoucherID": 41,
+    "Value": 0.63,
+    "TimesToUse": 4
+  },
+  {
+    "VoucherID": 42,
+    "Value": 0.23,
+    "TimesToUse": 12
+  },
+  {
+    "VoucherID": 103,
+    "Value": 0.03,
+    "TimesToUse": 19
+  },
+  {
+    "VoucherID": 43,
+    "Value": 0.5,
+    "TimesToUse": 20
+  },
+  {
+    "VoucherID": 119,
+    "Value": 0.95,
+    "TimesToUse": 19
+  },
+  {
+    "VoucherID": 28,
+    "Value": 0.76,
+    "TimesToUse": 17
+  },
+  {
+    "VoucherID": 102,
+    "Value": 0.56,
+    "TimesToUse": 17
+  },
+  {
+    "VoucherID": 59,
+    "Value": 0.83,
+    "TimesToUse": 16
+  },
+  {
+    "VoucherID": 92,
+    "Value": 0.33,
+    "TimesToUse": 12
+  },
+  {
+    "VoucherID": 18,
+    "Value": 0.41,
+    "TimesToUse": 4
+  },
+  {
+    "VoucherID": 140,
+    "Value": 0.18,
+    "TimesToUse": 6
+  },
+  {
+    "VoucherID": 49,
+    "Value": 0.14,
+    "TimesToUse": 20
+  },
+  {
+    "VoucherID": 111,
+    "Value": 0.56,
+    "TimesToUse": 15
+  },
+  {
+    "VoucherID": 53,
+    "Value": 0.98,
+    "TimesToUse": 16
+  },
+  {
+    "VoucherID": 66,
+    "Value": 0.87,
+    "TimesToUse": 15
+  },
+  {
+    "VoucherID": 33,
+    "Value": 0.22,
+    "TimesToUse": 3
+  },
+  {
+    "VoucherID": 32,
+    "Value": 0.29,
+    "TimesToUse": 16
+  },
+  {
+    "VoucherID": 75,
+    "Value": 0.49,
+    "TimesToUse": 18
+  },
+  {
+    "VoucherID": 130,
+    "Value": 0.11,
+    "TimesToUse": 16
+  },
+  {
+    "VoucherID": 104,
+    "Value": 0.82,
+    "TimesToUse": 20
+  },
+  {
+    "VoucherID": 81,
+    "Value": 0.68,
+    "TimesToUse": 7
+  },
+  {
+    "VoucherID": 19,
+    "Value": 0.66,
+    "TimesToUse": 20
+  },
+  {
+    "VoucherID": 7,
+    "Value": 0.84,
+    "TimesToUse": 7
+  },
+  {
+    "VoucherID": 40,
+    "Value": 0.77,
+    "TimesToUse": 6
+  },
+  {
+    "VoucherID": 15,
+    "Value": 0.9,
+    "TimesToUse": 16
+  },
+  {
+    "VoucherID": 137,
+    "Value": 0.32,
+    "TimesToUse": 8
+  },
+  {
+    "VoucherID": 149,
+    "Value": 0.32,
+    "TimesToUse": 18
+  },
+  {
+    "VoucherID": 120,
+    "Value": 0.07,
+    "TimesToUse": 13
+  },
+  {
+    "VoucherID": 78,
+    "Value": 0.27,
+    "TimesToUse": 8
+  },
+  {
+    "VoucherID": 16,
+    "Value": 0.97,
+    "TimesToUse": 15
+  },
+  {
+    "VoucherID": 16,
+    "Value": 0.45,
+    "TimesToUse": 3
+  },
+  {
+    "VoucherID": 89,
+    "Value": 0.88,
+    "TimesToUse": 1
+  },
+  {
+    "VoucherID": 10,
+    "Value": 0.51,
+    "TimesToUse": 17
+  },
+  {
+    "VoucherID": 64,
+    "Value": 0.74,
+    "TimesToUse": 4
+  },
+  {
+    "VoucherID": 27,
+    "Value": 0.94,
+    "TimesToUse": 13
+  },
+  {
+    "VoucherID": 104,
+    "Value": 0.98,
+    "TimesToUse": 20
+  },
+  {
+    "VoucherID": 86,
+    "Value": 0.69,
+    "TimesToUse": 2
+  },
+  {
+    "VoucherID": 145,
+    "Value": 0.39,
+    "TimesToUse": 15
+  },
+  {
+    "VoucherID": 63,
+    "Value": 0.83,
+    "TimesToUse": 3
+  },
+  {
+    "VoucherID": 129,
+    "Value": 0.35,
+    "TimesToUse": 8
+  },
+  {
+    "VoucherID": 69,
+    "Value": 0.85,
+    "TimesToUse": 13
+  },
+  {
+    "VoucherID": 59,
+    "Value": 0.82,
+    "TimesToUse": 2
+  },
+  {
+    "VoucherID": 133,
+    "Value": 0.97,
+    "TimesToUse": 3
+  },
+  {
+    "VoucherID": 8,
+    "Value": 0.37,
+    "TimesToUse": 16
+  },
+  {
+    "VoucherID": 79,
+    "Value": 0.68,
+    "TimesToUse": 18
+  },
+  {
+    "VoucherID": 122,
+    "Value": 0.51,
+    "TimesToUse": 10
+  },
+  {
+    "VoucherID": 34,
+    "Value": 0.73,
+    "TimesToUse": 10
+  },
+  {
+    "VoucherID": 68,
+    "Value": 0.59,
+    "TimesToUse": 5
+  },
+  {
+    "VoucherID": 9,
+    "Value": 0.77,
+    "TimesToUse": 4
+  },
+  {
+    "VoucherID": 5,
+    "Value": 0.79,
+    "TimesToUse": 17
+  },
+  {
+    "VoucherID": 31,
+    "Value": 0.28,
+    "TimesToUse": 10
+  },
+  {
+    "VoucherID": 77,
+    "Value": 0.58,
+    "TimesToUse": 20
+  },
+  {
+    "VoucherID": 40,
+    "Value": 0.46,
+    "TimesToUse": 12
+  },
+  {
+    "VoucherID": 126,
+    "Value": 0.22,
+    "TimesToUse": 9
+  },
+  {
+    "VoucherID": 66,
+    "Value": 0.44,
+    "TimesToUse": 20
+  },
+  {
+    "VoucherID": 79,
+    "Value": 0.26,
+    "TimesToUse": 18
+  },
+  {
+    "VoucherID": 43,
+    "Value": 0.6,
+    "TimesToUse": 16
+  },
+  {
+    "VoucherID": 8,
+    "Value": 0.81,
+    "TimesToUse": 20
+  },
+  {
+    "VoucherID": 123,
+    "Value": 0.99,
+    "TimesToUse": 18
+  },
+  {
+    "VoucherID": 46,
+    "Value": 0.52,
+    "TimesToUse": 19
+  },
+  {
+    "VoucherID": 39,
+    "Value": 0.33,
+    "TimesToUse": 1
+  },
+  {
+    "VoucherID": 107,
+    "Value": 0.38,
+    "TimesToUse": 11
+  },
+  {
+    "VoucherID": 49,
+    "Value": 0.65,
+    "TimesToUse": 16
+  },
+  {
+    "VoucherID": 2,
+    "Value": 0.22,
+    "TimesToUse": 18
+  },
+  {
+    "VoucherID": 12,
+    "Value": 0.71,
+    "TimesToUse": 17
+  },
+  {
+    "VoucherID": 18,
+    "Value": 0.79,
+    "TimesToUse": 2
+  },
+  {
+    "VoucherID": 83,
+    "Value": 0.22,
+    "TimesToUse": 6
+  },
+  {
+    "VoucherID": 135,
+    "Value": 1.0,
+    "TimesToUse": 13
+  },
+  {
+    "VoucherID": 107,
+    "Value": 0.36,
+    "TimesToUse": 8
+  },
+  {
+    "VoucherID": 59,
+    "Value": 0.16,
+    "TimesToUse": 10
+  },
+  {
+    "VoucherID": 107,
+    "Value": 0.42,
+    "TimesToUse": 2
+  },
+  {
+    "VoucherID": 25,
+    "Value": 0.09,
+    "TimesToUse": 1
+  },
+  {
+    "VoucherID": 28,
+    "Value": 0.38,
+    "TimesToUse": 5
+  },
+  {
+    "VoucherID": 80,
+    "Value": 0.53,
+    "TimesToUse": 9
+  },
+  {
+    "VoucherID": 148,
+    "Value": 0.2,
+    "TimesToUse": 17
+  },
+  {
+    "VoucherID": 122,
+    "Value": 0.5,
+    "TimesToUse": 18
+  },
+  {
+    "VoucherID": 37,
+    "Value": 0.01,
+    "TimesToUse": 17
+  },
+  {
+    "VoucherID": 24,
+    "Value": 0.13,
+    "TimesToUse": 2
+  },
+  {
+    "VoucherID": 24,
+    "Value": 0.49,
+    "TimesToUse": 4
+  },
+  {
+    "VoucherID": 16,
+    "Value": 0.89,
+    "TimesToUse": 5
+  },
+  {
+    "VoucherID": 9,
+    "Value": 0.9,
+    "TimesToUse": 1
+  },
+  {
+    "VoucherID": 144,
+    "Value": 0.44,
+    "TimesToUse": 11
+  },
+  {
+    "VoucherID": 113,
+    "Value": 0.76,
+    "TimesToUse": 11
+  },
+  {
+    "VoucherID": 26,
+    "Value": 0.38,
+    "TimesToUse": 20
+  },
+  {
+    "VoucherID": 121,
+    "Value": 0.11,
+    "TimesToUse": 1
+  },
+  {
+    "VoucherID": 51,
+    "Value": 0.74,
+    "TimesToUse": 8
+  },
+  {
+    "VoucherID": 126,
+    "Value": 0.45,
+    "TimesToUse": 17
+  },
+  {
+    "VoucherID": 56,
+    "Value": 0.35,
+    "TimesToUse": 18
+  },
+  {
+    "VoucherID": 37,
+    "Value": 0.73,
+    "TimesToUse": 4
+  },
+  {
+    "VoucherID": 110,
+    "Value": 0.36,
+    "TimesToUse": 18
+  },
+  {
+    "VoucherID": 33,
+    "Value": 0.76,
+    "TimesToUse": 3
+  },
+  {
+    "VoucherID": 71,
+    "Value": 0.81,
+    "TimesToUse": 4
+  },
+  {
+    "VoucherID": 107,
+    "Value": 0.29,
+    "TimesToUse": 4
+  },
+  {
+    "VoucherID": 143,
+    "Value": 0.47,
+    "TimesToUse": 18
+  },
+  {
+    "VoucherID": 4,
+    "Value": 0.62,
+    "TimesToUse": 9
+  },
+  {
+    "VoucherID": 134,
+    "Value": 0.6,
+    "TimesToUse": 7
+  },
+  {
+    "VoucherID": 97,
+    "Value": 0.14,
+    "TimesToUse": 1
+  },
+  {
+    "VoucherID": 101,
+    "Value": 0.6,
+    "TimesToUse": 16
+  },
+  {
+    "VoucherID": 100,
+    "Value": 0.24,
+    "TimesToUse": 14
+  },
+  {
+    "VoucherID": 77,
+    "Value": 0.5,
+    "TimesToUse": 8
+  },
+  {
+    "VoucherID": 139,
+    "Value": 0.13,
+    "TimesToUse": 17
+  },
+  {
+    "VoucherID": 127,
+    "Value": 0.63,
+    "TimesToUse": 11
+  },
+  {
+    "VoucherID": 32,
+    "Value": 0.14,
+    "TimesToUse": 15
+  },
+  {
+    "VoucherID": 127,
+    "Value": 0.55,
+    "TimesToUse": 15
+  },
+  {
+    "VoucherID": 99,
+    "Value": 0.36,
+    "TimesToUse": 12
+  },
+  {
+    "VoucherID": 87,
+    "Value": 0.39,
+    "TimesToUse": 7
+  },
+  {
+    "VoucherID": 5,
+    "Value": 0.12,
+    "TimesToUse": 17
+  },
+  {
+    "VoucherID": 69,
+    "Value": 0.67,
+    "TimesToUse": 16
+  },
+  {
+    "VoucherID": 76,
+    "Value": 0.4,
+    "TimesToUse": 7
+  },
+  {
+    "VoucherID": 6,
+    "Value": 0.47,
+    "TimesToUse": 17
+  },
+  {
+    "VoucherID": 97,
+    "Value": 0.83,
+    "TimesToUse": 4
+  },
+  {
+    "VoucherID": 74,
+    "Value": 0.99,
+    "TimesToUse": 3
+  },
+  {
+    "VoucherID": 17,
+    "Value": 0.15,
+    "TimesToUse": 4
+  },
+  {
+    "VoucherID": 143,
+    "Value": 0.9,
+    "TimesToUse": 6
+  },
+  {
+    "VoucherID": 103,
+    "Value": 0.02,
+    "TimesToUse": 14
+  },
+  {
+    "VoucherID": 60,
+    "Value": 0.24,
+    "TimesToUse": 20
+  },
+  {
+    "VoucherID": 139,
+    "Value": 0.7,
+    "TimesToUse": 2
+  },
+  {
+    "VoucherID": 63,
+    "Value": 0.33,
+    "TimesToUse": 18
+  },
+  {
+    "VoucherID": 71,
+    "Value": 0.75,
+    "TimesToUse": 15
+  },
+  {
+    "VoucherID": 53,
+    "Value": 0.17,
+    "TimesToUse": 14
+  },
+  {
+    "VoucherID": 135,
+    "Value": 0.01,
+    "TimesToUse": 1
+  },
+  {
+    "VoucherID": 124,
+    "Value": 0.31,
+    "TimesToUse": 11
+  }
+]
