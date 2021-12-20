@@ -1,2 +1,36 @@
+//CLI config
+câu lệnh: aws configure
+=> Terminal lúc này hiện ra:
+AWS Access Key ID [None]: AKIA5WNIEHGGZ4RKVRBY
+AWS Secret Access Key [None]: 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
+Default region name [None]: us-west-1
+Default output format [None]: json
+(Nhập đúng những gì ở sau dấu :) => Phải nhập cho đúng ko là ko thực hiện đc lệnh CLI
+
+//Tạo bảng bằng CLI
+câu lệnh: aws dynamodb create-table --table-name TÊN_BẢNG --attribute-definitions AttributeName=TÊN_Partition_key,AttributeType=S --key-schema AttributeName=TÊN_Partition_key,KeyType=HASH --provisioned-throughput ReadCapacityUnits=10,WriteCapacityUnits=5
+
 //Add data bang file JSON
-aws dynamodb batch-write-item --request-items file://TENFILE
+câu lệnh: aws dynamodb batch-write-item --request-items file://TENFILE
+(File JSON đc generate với đuôi DynamoDB Format)
+
+//Lấy toàn bộ items của 1 bảng
+aws dynamodb scan --table-name TÊN_BẢNG
+
+//Liệt kê các bảng hiện có
+aws dynamodb list-tables
+
+// Tạo back-up dữ liệu cho 1 bảng
+aws dynamodb create-backup --table-name TÊN_BẢNG_CẦN_BACK_UP --backup-name TÊN_BẢNG_BACK_UP
+
+//Lấy thông tin của 1 bảng
+aws dynamodb describe-table --table-name TÊN_BẢNG
+
+// Xóa 1 bảng
+aws dynamodb delete-table TÊN_BẢNG
+
+//Lấy một phần tử theo 1 thuộc tính
+aws dynamodb query --table-name TÊN_BẢNG --key-condition-expression "TÊN_KHÓA = :TÊN_TẠM" --expression-attribute-values={\":TÊN_TẠM\":{\"KIỂU_DỮ_LIỆU\":\"GIÁ_TRỊ\"}}
+
+// Restore 1 bảng từ Back-up
+aws dynamodb restore-table-from-backup --target-table-name TÊN_BẢNG --backup-arn MÃ_ARN_CỦA_BẢNG_BACK_UP(Lấy trong mục Back-up)
